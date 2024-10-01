@@ -33,6 +33,109 @@
   </div>
 </div>
 {% endblock %}
+% block recommended_products %} 
+<h1 id="recommended_products_heading" class="mt-30">Recommended Products</h1>
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div id="products_container" class="carousel-inner">
+        <div id="carousel-item" class="carousel-item active">
+        <div id="product_card" class="card" >
+            <img src="{% static 'media/item1.png' %}" class="card-img-top" alt="..." />
+            <div class="card-body">
+            <h5 id="recommended_product_heading" class="card-title">Galaxy A9 (ultra pro)</h5>
+            <p id="recommended_product_details"class="card-text">
+                Some quick example text to build on the card title and make up the
+                bulk of the card's content.
+            </p>
+            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
+            </div>
+        </div>
+        </div>
+        <div id="carousel-item" class="carousel-item">
+        <div id="product_card" class="card" >
+            <img src="{% static 'media/item2.png' %}" class="card-img-top" alt="..." />
+            <div class="card-body">
+            <h5 id="recommended_product_heading" class="card-title">Vodafones</h5>
+            <p id="recommended_product_details" class="card-text">
+                Some quick example text to build on the card title and make up the
+                bulk of the card's content.
+            </p>
+            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
+            </div>
+        </div>
+        </div>
+        <div id="carousel-item" class="carousel-item">
+        <div id="product_card" class="card" >
+            <img src="{% static 'media/item3.png' %}" class="card-img-top" alt="..." />
+            <div class="card-body">
+            <h5 id="recommended_product_heading" class="card-title">Realme (xiaomi)</h5>
+            <p id="recommended_product_details" class="card-text">
+                Some quick example text to build on the card title and make up the
+                bulk of the card's content.
+            </p>
+            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
+            </div>
+        </div>
+        </div>
+        <div id="carousel-item" class="carousel-item">
+        <div id="product_card" class="card" >
+            <img src="{% static 'media/item4.png' %}" class="card-img-top" alt="..." />
+            <div class="card-body">
+            <h5 id="recommended_product_heading" class="card-title">Samsung AS (pro)</h5>
+            <p id="recommended_product_details" class="card-text">
+                Some quick example text to build on the card title and make up the
+                bulk of the card's content.
+            </p>
+            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
+            </div>
+        </div>
+        </div>
+        <div id="carousel-item" class="carousel-item">
+        <div id="product_card" class="card" >
+            <img src="{% static 'media/item5.png' %}" class="card-img-top" alt="..." />
+            <div class="card-body">
+            <h5 id="recommended_product_heading" class="card-title">Galaxy A9 (ultra pro)</h5>
+            <p id="recommended_product_details" class="card-text">
+                Some quick example text to build on the card title and make up the
+                bulk of the card's content.
+            </p>
+            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
+            </div>
+        </div>
+        </div>
+        <div id="carousel-item" class="carousel-item">
+        <div id="product_card" class="card" >
+            <img src="{% static 'media/item6.png' %}" class="card-img-top" alt="..." />
+            <div class="card-body">
+            <h5 id="recommended_product_heading" class="card-title">Galaxy A9 (ultra pro)</h5>
+            <p id="recommended_product_details" class="card-text">
+                Some quick example text to build on the card title and make up the
+                bulk of the card's content.
+            </p>
+            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
+            </div>
+        </div>
+        </div>
+    </div>
+    <button
+        class="carousel-control-prev"
+        type="button"
+        data-target="#carouselExampleControls"
+        data-slide="prev"
+    >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </button>
+    <button
+        class="carousel-control-next"
+        type="button"
+        data-target="#carouselExampleControls"
+        data-slide="next"
+    >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </button>
+    </div>
+{% endblock %}
 {% block content %}
 <div id="content_container" class="container h-100">
   <div class="row h-100 text-center">
