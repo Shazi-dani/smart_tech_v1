@@ -119,19 +119,10 @@
     </header>
     {% block slider %} {% endblock %}
     {% block recommended_products %} {% endblock %}
-     
 
     {% if messages %}
     <div class="message-container"></div>
-    {% endif %} 
-
-    {% block page_header %} 
-    {% endblock %} 
-
-    {% block content %} 
-    {% endblock %} 
-    
-    {% block postloadjs %} 
-    {% endblock %}
+    {% endif %} {% block page_header %} {% endblock %} {% block content %} 
+    {% endblock %} {% block postloadjs %} {% endblock %}
   </body>
 </html>

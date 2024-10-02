@@ -1,39 +1,41 @@
-{% extends "base.html" %} {% load static %}
-{% block page_header %} 
+{% extends "base.html" %} {% load static %} {% block page_header %} 
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'css/base.css' %}" />
+{% endblock %}
 <div class="container header-container">
   <div class="row">
     <div class="col"></div>
   </div>
 </div>
-{% endblock %}
+{% endblock %} 
 {% block slider %}
-<div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-interval="40">
-      <img
-        src="{% static 'media/slider1.png' %}"
-        class="d-block w-100"
-        alt="..."
-      />
+    <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-interval="40">
+          <img
+            src="{% static 'media/slider1.png' %}"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item" data-interval="2000">
+          <img
+            src="{% static 'media/slider2.png' %}"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="{% static 'media/slider3.png' %}"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+      </div>
     </div>
-    <div class="carousel-item" data-interval="2000">
-      <img
-        src="{% static 'media/slider2.png' %}"
-        class="d-block w-100"
-        alt="..."
-      />
-    </div>
-    <div class="carousel-item">
-      <img
-        src="{% static 'media/slider3.png' %}"
-        class="d-block w-100"
-        alt="..."
-      />
-    </div>
-  </div>
-</div>
 {% endblock %}
-% block recommended_products %} 
+{% block recommended_products %} 
 <h1 id="recommended_products_heading" class="mt-30">Recommended Products</h1>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div id="products_container" class="carousel-inner">
@@ -171,7 +173,7 @@
     </div>
   </div>
 </div>
-<div id="footer" class="container"></div>
+<div id="footer" class="container">
   <div class="row h-100">
     <div class="col-lg-3">
       <h4 id="about_us_heading_2">About</h4>
