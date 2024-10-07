@@ -12,6 +12,8 @@ You can safely delete this README.md file or change it for your own project. Ple
 <img width="1277" alt="Screenshot 2024-10-07 at 1 26 41 PM" src="https://github.com/user-attachments/assets/e1bb505c-867c-4d52-8d8c-5f968b756271">
 
 
+## Main Languages Used 
+<img width="534" alt="Screenshot 2024-10-07 at 1 46 45 PM" src="https://github.com/user-attachments/assets/0f4c3680-e5ec-4194-8e81-4aaf19174b00">
 
 
 ## Gitpod Reminders
