@@ -92,6 +92,20 @@ ul {
   background: ☐ white;
   z-index: -1;
   }
+  .btt-button {
+    height: 42px;
+    width: 42px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #000;
+}
+
+.btt-link,
+.update-link,
+.remove-item {
+    cursor: pointer;
+}
 
 @media screen and (min-width:576px) {
   #products_container{
