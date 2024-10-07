@@ -6,6 +6,14 @@ This is the Code Institute student template for Gitpod. We have preinstalled all
 
 You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
 
+
+
+## MOSCOW Agile Board 
+<img width="1277" alt="Screenshot 2024-10-07 at 1 26 41 PM" src="https://github.com/user-attachments/assets/e1bb505c-867c-4d52-8d8c-5f968b756271">
+
+
+
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
