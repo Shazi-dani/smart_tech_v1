@@ -14,8 +14,8 @@
                 Apple
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Iphone</a>
-                <a href="" class="dropdown-item">Mac Book</a>
+                <a href="{% url 'products' %}?category=iphone" class="dropdown-item">Iphone</a>
+                <a href="{% url 'products' %}?category=mac" class="dropdown-item">Mac Book</a>
             </div>
         </li>
 
@@ -24,9 +24,9 @@
                 Smart Phones
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Samsung</a>
-                <a href="" class="dropdown-item">OPPO</a>
-                <a href="" class="dropdown-item">Vivo</a>
+                <a href="{% url 'products' %}?category=samsung" class="dropdown-item">Samsung</a>
+                <a href="{% url 'products' %}?category=oppo" class="dropdown-item">OPPO</a>
+                <a href="{% url 'products' %}?category=vivo" class="dropdown-item">Vivo</a>
             </div>
         </li>
 
@@ -35,9 +35,9 @@
                 Tablets
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">Samsung</a>
-                <a href="" class="dropdown-item">Oppo</a>
-                <a href="" class="dropdown-item">Vivo</a>
+                <a href="{% url 'products' %}?category=samsung_tablet" class="dropdown-item">Samsung</a>
+                <a href="{% url 'products' %}?category=oppo_tablet" class="dropdown-item">Oppo</a>
+                <a href="{% url 'products' %}?category=vivo_tablet" class="dropdown-item">Vivo</a>
             </div>
         </li>
     </ul>

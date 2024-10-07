@@ -3,72 +3,64 @@
         "pk": 1,
         "model": "products.category",
         "fields": {
-            "name": "activewear",
-            "friendly_name": "Activewear"
+            "name": "oppo",
+            "friendly_name": "Oppo"
         }
     },
     {
         "pk": 2,
         "model": "products.category",
         "fields": {
-            "name": "bed_bath",
-            "friendly_name": "Bed & Bath"
+            "name": "oppo_tablet",
+            "friendly_name": "Oppo & Tablet"
         }
     },
     {
         "pk": 3,
         "model": "products.category",
         "fields": {
-            "name": "clearance",
-            "friendly_name": "Clearance"
+            "name": "vivo",
+            "friendly_name": "Vivo"
         }
     },
     {
         "pk": 4,
         "model": "products.category",
         "fields": {
-            "name": "deals",
-            "friendly_name": "Deals"
+            "name": "vivo_tablet",
+            "friendly_name": "Vivo & Tablet"
         }
     },
     {
         "pk": 5,
         "model": "products.category",
         "fields": {
-            "name": "essentials",
-            "friendly_name": "Essentials"
+            "name": "samsung",
+            "friendly_name": "Samsung"
         }
     },
     {
         "pk": 6,
         "model": "products.category",
         "fields": {
-            "name": "jeans",
-            "friendly_name": "Jeans"
+            "name": "samsung_tablet",
+            "friendly_name": "Samsung & Tablet"
         }
     },
     {
         "pk": 7,
         "model": "products.category",
         "fields": {
-            "name": "kitchen_dining",
-            "friendly_name": "Kitchen & Dining"
+            "name": "mac",
+            "friendly_name": "Mac"
         }
     },
     {
         "pk": 8,
         "model": "products.category",
         "fields": {
-            "name": "new_arrivals",
-            "friendly_name": "New Arrivals"
-        }
-    },
-    {
-        "pk": 9,
-        "model": "products.category",
-        "fields": {
-            "name": "shirts",
-            "friendly_name": "Shirts"
+            "name": "iphone",
+            "friendly_name": "Iphone"
         }
     }
 ]
