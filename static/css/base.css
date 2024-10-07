@@ -79,6 +79,9 @@ ul {
   color: #fff;
   cursor: pointer;
 }
+#bg-black{
+  background-color: #000 !important;
+}
 
 @media screen and (min-width:576px) {
   #products_container{
