@@ -1,6 +1,7 @@
 html {
   height: 100%;
 }
+
 #about_us_heading {
   margin-top: 30px;
   margin-bottom: 10px;
@@ -105,6 +106,23 @@ ul {
 .update-link,
 .remove-item {
     cursor: pointer;
+}
+
+.btn-outline-black {
+  background: white;
+  color: black !important; /* use important to override link colors for <a> elements */
+  border: 1px solid black;
+}
+
+.btn-outline-black:hover,
+.btn-outline-black:active,
+.btn-outline-black:focus {
+  background: black;
+  color: white !important;
+}
+#add-to-bag{
+  background-color: #000;
+  color: #fff;
 }
 
 @media screen and (min-width:576px) {
