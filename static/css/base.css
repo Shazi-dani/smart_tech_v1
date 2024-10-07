@@ -83,6 +83,16 @@ ul {
   background-color: #000 !important;
 }
 
+.overlay {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+  background: ☐ white;
+  z-index: -1;
+  }
+
 @media screen and (min-width:576px) {
   #products_container{
     display: flex;
