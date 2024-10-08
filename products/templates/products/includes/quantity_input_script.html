@@ -1,0 +1,47 @@
+<script type="text/javascript">
+  // Function to handle enabling and disabling of buttons
+  function handleEnableDisable(itemId) {
+    // Get the current value from the input field
+    var currentValue = parseInt($(`#id_qty_${itemId}`).val());
+
+    // Set flags to determine whether to disable buttons
+    var minusDisabled = currentValue < 2;
+    var plusDisabled = currentValue > 98;
+
+    // Enable or disable the "-" and "+" buttons
+    $(`#minus_${itemId}`).prop("disabled", minusDisabled);
+    $(`#plus_${itemId}`).prop("disabled", plusDisabled);
+  }
+
+  // Ensure proper state on page load
+  $(".qty_input").each(function () {
+    var itemId = $(this).data("item_id");
+    handleEnableDisable(itemId);
+  });
+
+  // Dynamic updates on input change
+  $(".qty_input").on("change", function () {
+    var itemId = $(this).data("item_id");
+    handleEnableDisable(itemId);
+  });
+
+  // Increment quantity
+  $(".increment-qty").click(function (e) {
+    e.preventDefault();
+    var closestInput = $(this).closest(".input-group").find(".qty_input")[0];
+    var currentValue = parseInt($(closestInput).val());
+    $(closestInput).val(currentValue + 1);
+    var itemId = $(this).data("item_id");
+    handleEnableDisable(itemId);
+  });
+
+  // Decrement quantity
+  $(".decrement-qty").click(function (e) {
+    e.preventDefault();
+    var closestInput = $(this).closest(".input-group").find(".qty_input")[0];
+    var currentValue = parseInt($(closestInput).val());
+    $(closestInput).val(currentValue - 1);
+    var itemId = $(this).data("item_id");
+    handleEnableDisable(itemId);
+  });
+</script>

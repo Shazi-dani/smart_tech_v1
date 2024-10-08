@@ -125,6 +125,10 @@ ul {
   color: #fff;
 }
 
+#handle-qty-btn{
+  background-color: #000;
+}
+
 @media screen and (min-width:576px) {
   #products_container{
     display: flex;
