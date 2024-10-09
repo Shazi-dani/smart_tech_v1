@@ -1,4 +1,7 @@
-{% extends "base.html" %} {% load static %} {% load bag_tools %} {% block page_header %}
+{% extends "base.html" %} 
+{% load static %} 
+{% load bag_tools %} 
+{% block page_header %}
 <div class="container header-container">
   <div class="row">
     <div class="col"></div>
@@ -91,10 +94,7 @@
                           id="increment-qty_{{ item.item_id }}"
                         >
                           <span
-                            ><i style="color: #fff" class="fas fa-plus fa-sm"
-                              >+</i
-                            ></span
-                          >
+                            ><i class="fas fa-plus fa-sm" ></i></span>
                         </button>
                       </div>
                       {% if item.product.has_colors %}

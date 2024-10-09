@@ -17,10 +17,7 @@
           href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
           integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
           crossorigin="anonymous"
-        />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" 
-        integrity="sha384-DyZ6ywZ9gN6HtqpqowwCjz+Dp7p4dRk4fJ8iMYpURkH6OjM0UxopJUmRAiRXQo8z" 
-        crossorigin="anonymous" />
+        /> 
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato&display=swap">
         <link rel="stylesheet" href="{% static 'css/base.css' %}">
@@ -37,22 +34,20 @@
 
     <title>Smart Tech {% block extra_title %} {% endblock %}</title>
     <style>
-      #handle-qty-btn{
-        background-color: #000;
-       
+      /* .message-container {
+        position: fixed;
+        top: 72px;
+        right: 15px;
+        z-index: 9999999999999999;
       }
-      #handle-qty-btn-inc{
-        background-color: #000;
-        margin-left: 90px;
-        margin-top: -32px;      
+
+      .custom-toast {
+        overflow: visible;
       }
-      #handle-qty-btn-dec{
-        background-color: #000;
-        position: relative;
-        left: -21px;
-        top: 31px;
-        z-index: 11;      
-      }
+
+      .toast-capper {
+        height: 2px;
+      } */
       
     </style>
   </head>
@@ -152,8 +147,27 @@
     {% block recommended_products %} {% endblock %}
 
     {% if messages %}
-    <div class="message-container"></div>
+    <div class="message-container">
+      {% for message in messages %}
+         {% with message.level as level %}
+            {% if level == 40 %}
+              {% include 'includes/toasts/toast_error.html' %}
+            {% elif level == 30 %}
+              {% include 'includes/toasts/toast_warning.html' %}
+            {% elif level == 25 %}
+              {% include 'includes/toasts/toast_success.html' %}
+            {% else %}
+              {% include 'includes/toasts/toast_info.html' %}
+            {% endif %}
+          {% endwith %}
+        {% endfor %}
+    </div>
     {% endif %} {% block page_header %} {% endblock %} {% block content %} 
-    {% endblock %} {% block postloadjs %} {% endblock %}
+    {% endblock %} 
+    {% block postloadjs %} 
+      <script type="text/javascript">
+        $('.toast').toast('show');
+      </script>
+    {% endblock %}
   </body>
 </html>

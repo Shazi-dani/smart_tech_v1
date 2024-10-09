@@ -129,6 +129,23 @@ ul {
   background-color: #000;
 }
 
+/* ------------------------------- bootstrap toasts */
+
+.message-container {
+  position: fixed;
+  top: 72px;
+  right: 15px;
+  z-index: 99999999999;
+}
+
+.custom-toast {
+  overflow: visible;
+}
+
+.toast-capper {
+  height: 2px;
+}
+
 @media screen and (min-width:576px) {
   #products_container{
     display: flex;
