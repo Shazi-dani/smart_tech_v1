@@ -107,7 +107,7 @@
                     </div>
                   </div>
                 </form>
-                <a class="update-link text-info ml-n4"><small>Update</small></a>
+                <a class="update-link text-info ml-n4 update-btn"><small>Update</small></a>
                 <a
                   class="remove-item text-danger ml-5"
                   id="remove {{item.item_id}}"
@@ -134,15 +134,15 @@
             </tr>
             <tr>
               <td colspan="5" class="text-right">
-                <a href="{% url 'products' %}" class="btn btn-outline-black rounded-0 btn-lg">
-                  <span class="icon">
+                <a href="{% url 'products' %}" class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn">
+                  <span class="icon keep-shopping-icon">
                     <i class="fas fa-chevron-left"></i>
                   </span>
-                  <span class="text-uppercase">Keep Shopping</span>
+                  <span class="text-uppercase keep-shopping-text">Keep Shopping</span>
                 </a>
-                <a href="" class="btn btn-black rounded-0 btn-lg">
-                  <span class="text-uppercase">Secure Checkout</span>
-                  <span class="icon">
+                <a href="" class="btn btn-black rounded-0 btn-lg checkout-btn">
+                  <span class="text-uppercase checkout-text">Secure Checkout</span>
+                  <span class="icon checkout-icon">
                     <i class="fas fa-lock"></i>
                   </span>
                 </a>

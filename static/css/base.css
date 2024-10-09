@@ -37,7 +37,7 @@ html {
 #footer {
   height: 200px;
 }
-#social_media_container{
+#social_media_container {
   margin-left: 40px;
 }
 #social_media_logo {
@@ -48,27 +48,26 @@ ul {
   color: #1b365c;
 }
 
-#products_container{
+#products_container {
   padding: 1em;
-  
 }
-#product_card{
-  margin: 0 .5em;
+#product_card {
+  margin: 0 0.5em;
 }
 
-#recommended_products_heading{
+#recommended_products_heading {
   margin-top: 50px;
   margin-bottom: 30px;
   color: #1b365c;
   text-align: center;
 }
-#recommended_product_heading{
+#recommended_product_heading {
   color: #1b365c;
 }
-#recommended_product_details{
+#recommended_product_details {
   color: #1b365c;
 }
-#buy_now_btn{
+#buy_now_btn {
   display: inline-block;
   width: 230px;
   padding: 10px;
@@ -80,32 +79,32 @@ ul {
   color: #fff;
   cursor: pointer;
 }
-#bg-black{
+#bg-black {
   background-color: #000 !important;
 }
 
 .overlay {
   height: 100%;
   width: 100%;
-  top: 0;
+  top: 20px;
   left: 0;
   position: fixed;
   background: ☐ white;
   z-index: -1;
-  }
-  .btt-button {
-    height: 42px;
-    width: 42px;
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    background-color: #000;
+}
+.btt-button {
+  height: 42px;
+  width: 42px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: #000;
 }
 
 .btt-link,
 .update-link,
 .remove-item {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .btn-outline-black {
@@ -120,13 +119,22 @@ ul {
   background: black;
   color: white !important;
 }
-#add-to-bag{
+#add-to-bag {
   background-color: #000;
   color: #fff;
 }
 
-#handle-qty-btn{
+#handle-qty-btn {
   background-color: #000;
+}
+
+.update-btn {
+  color: #1b365c !important;
+}
+
+#add-to-bag {
+  padding: 11px 45px;
+  background-color: #1b365c;
 }
 
 /* ------------------------------- bootstrap toasts */
@@ -146,29 +154,106 @@ ul {
   height: 2px;
 }
 
-@media screen and (min-width:576px) {
-  #products_container{
+/* from CSS-tricks.com: https://css-tricks.com/snippets/css/css-triangle/ */
+.arrow-up {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 10px solid black;
+  position: absolute;
+  top: -10px;
+  right: 36px;
+}
+
+/* Convenience classes - colors copied from Bootstrap */
+.arrow-primary {
+  border-bottom-color: #007bff !important;
+}
+
+.arrow-secondary {
+  border-bottom-color: #6c757d !important;
+}
+
+.arrow-success {
+  border-bottom-color: #28a745 !important;
+}
+
+.arrow-danger {
+  border-bottom-color: #dc3545 !important;
+}
+
+.arrow-warning {
+  border-bottom-color: #ffc107 !important;
+}
+
+.arrow-info {
+  border-bottom-color: #17a2b8 !important;
+}
+
+.arrow-light {
+  border-bottom-color: #f8f9fa !important;
+}
+
+.arrow-dark {
+  border-bottom-color: #343a40 !important;
+}
+
+.bag-notification-wrapper {
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+@media screen and (min-width: 576px) {
+  #products_container {
     display: flex;
     justify-content: space-evenly;
-    
   }
-  #carousel-item{
+
+  .checkout-btn {
+    background-color: #1b365c !important;
+  }
+
+  .checkout-text,
+  .checkout-icon {
+    color: #fff;
+  }
+
+  .keep-shopping-btn {
+    border: 1px solid#1b365c;
+  }
+
+  .keep-shopping-text,
+  .keep-shopping-icon {
+    color: #1b365c;
+  }
+
+  .keep-shopping-btn:hover{
+    background-color: #1b365c;
+  }
+
+  .keep-shopping-btn:hover .keep-shopping-text,
+  .keep-shopping-btn:hover .keep-shopping-icon {
+    color: #fff;
+  }
+
+  #carousel-item {
     display: block;
     margin-right: 0;
-    flex: 0 0 calc(100%/3);
+    flex: 0 0 calc(100% / 3);
   }
-  #product_card{
+  #product_card {
     width: 300px;
     height: 600px;
   }
-  
 }
-.nav-link{
+.nav-link {
   color: #1b365c !important;
 }
-#all-products-link{
+#all-products-link {
   color: #1b365c !important;
 }
-#all-products-link{
+#all-products-link {
   color: #1b365c;
 }
