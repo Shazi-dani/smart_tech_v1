@@ -1,19 +1,27 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome shazina danish,
+**June 18, 2024**
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## User Stories
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+|Story ID |AS A/AN |I WANT TO BE ABLE TO...|SO THAT I CAN...|
+|---------|--------|-----------------------|----------------|
+|<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/e2612a7a-7a56-4e05-b371-5490b4dc0d7f">Viewing & Navigation|
+|1|Any User|	Nevigate to Site or Home Screen| Get what i want or require| 
 
 
-
-## MOSCOW Agile Board 
-<img width="1277" alt="Screenshot 2024-10-07 at 1 26 41 PM" src="https://github.com/user-attachments/assets/e1bb505c-867c-4d52-8d8c-5f968b756271">
 
 
 ## Main Languages Used 
 <img width="534" alt="Screenshot 2024-10-07 at 1 46 45 PM" src="https://github.com/user-attachments/assets/0f4c3680-e5ec-4194-8e81-4aaf19174b00">
+
+
+
+
+
+
+
+
 
 
 ## Gitpod Reminders
