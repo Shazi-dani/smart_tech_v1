@@ -24,6 +24,13 @@
 |13|Site User|Receive an email confirmation after registering	|Verify that my account registration was successful|
 |14|Site User|Easily login or logout|To secure my personal account information|
 |15|Site User|Easily recover my password |in case I forget it	Recover access to my account|
+|16|Site User|Receive a confirmation email| verify| 
+|17|Site User|Have a personalized user profile|View my personal order history and order confirmations, and save my payment information|
+|<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/8c86bda4-1a92-4796-897e-f64fc862e535">**Sorting and Searching**|
+|18|Shopper/Buyer|Sort the list of available products|Easily identify the best rated, best priced and categorically sorted products|
+|19|Shopper/Buyer|Sort a specific category of product	|Find the best-priced or best-rated product in a specific category, or sort the products in that category by name|
+|20|Shopper/Buyer|Sort multiple categories of products simultaneously |	Find the best-priced or best-rated products across broad categories, such as "smart Phone" or "Tab"|
+|21|Shopper/Buyer|Search for a product by name or description	|Find a specific product I'd like to purchase|
 
 
 
