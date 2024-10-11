@@ -13,6 +13,18 @@
 |3|Shopper/Buyer|view Category Listing|Find specific items of my interested, without having to scroll through all products|
 |4|Shopper/Buyer|Search By Typing Name of Product|Save my  Time| 
 |5|Shopper/Buyer|Add Filers to Get Specific Offers|Save money| 
+|6|Shopper/Buyer|View Items/ Products to Quickly identify deals & clearance or items  with  special offers|Take advantage of special savings on products I'd like to purchase|
+|7|Shopper/Buyer|View individual product details|Identify the price, description, product rating, product image and available sizes.|
+|8|Shopper/Buyer|View my wished/ Selected purchases|to view more detail about Product and pricing also ammend Quantity if needed|
+|9|Shopper/Buyer|Easily view the total of my Ongoing purchases at any time|Avoid spending too much & Shipping Charges|
+|10|Shopper/Buyer|View my product wish List|make purchase from this in future|
+|11|Shopper/Buyer|View Cart / Bag |check that my concern things is in my Bag or CART|
+|<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/0d655526-7480-4390-8fca-4f338a4480e0">**Registration and User Accounts**|
+|12|Site User|Easily register for an account|Have a personal account and be able to view my profile to check order details |
+|13|Site User|Receive an email confirmation after registering	|Verify that my account registration was successful|
+|14|Site User|Easily login or logout|To secure my personal account information|
+|15|Site User|Easily recover my password |in case I forget it	Recover access to my account|
+
 
 
 
