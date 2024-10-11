@@ -2,13 +2,17 @@
 
 **June 18, 2024**
 
+
 ## User Stories
 
 |Story ID |AS A/AN |I WANT TO BE ABLE TO...|SO THAT I CAN...|
 |---------|--------|-----------------------|----------------|
-|<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/e2612a7a-7a56-4e05-b371-5490b4dc0d7f">Viewing & Navigation|
+|<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/e2612a7a-7a56-4e05-b371-5490b4dc0d7f">**Viewing & Navigation**|
 |1|Any User|	Nevigate to Site or Home Screen| Get what i want or require| 
-
+|2|Shopper/Buyer|View a list of products|	Select some to purchase|
+|3|Shopper/Buyer|view Category Listing|Find specific items of my interested, without having to scroll through all products|
+|4|Shopper/Buyer|Search By Typing Name of Product|Save my  Time| 
+|5|Shopper/Buyer|Add Filers to Get Specific Offers|Save money| 
 
 
 
