@@ -12,43 +12,42 @@ def add_to_bag(request, item_id):
     product = get_object_or_404(Product, pk=item_id)
     quantity = int(request.POST.get('quantity'))
     redirect_url = request.META.get('HTTP_REFERER', '/')
-    color = None
+    color = request.POST.get('product_color')
 
-    if 'product_color' in request.POST:
-        color = request.POST['product_color']
-
+    # Initialize the shopping bag from the session
     bag = request.session.get('bag', {})
 
+    # Check if color is provided
     if color:
-        if item_id in list(bag.keys()):
-            if color in bag[item_id]['items_by_color'].keys():
+        if item_id in bag.keys():
+            if color in bag[item_id]['items_by_color']:
                 bag[item_id]['items_by_color'][color] += quantity
                 messages.success(request,
-                                 (f'Updated colour {color.upper()} '
-                                  f'{product.name} quantity to '
-                                  f'{bag[item_id]["items_by_color"][color]}'))
+                                 f'Updated color {color.upper()} '
+                                 f'{product.name} quantity to '
+                                 f'{bag[item_id]["items_by_color"][color]}')
             else:
                 bag[item_id]['items_by_color'][color] = quantity
                 messages.success(request,
-                                 (f'Added color {color.upper()} '
-                                  f'{product.name} to your bag'))
+                                 f'Added color {color.upper()} '
+                                 f'{product.name} to your bag')
         else:
             bag[item_id] = {'items_by_color': {color: quantity}}
             messages.success(request,
-                             (f'Added color {color.upper()} '
-                              f'{product.name} to your bag'))
+                             f'Added color {color.upper()} '
+                             f'{product.name} to your bag')
     else:
-        if item_id in list(bag.keys()):
+        if item_id in bag.keys():
             bag[item_id] += quantity
             messages.success(request,
-                             (f'Updated {product.name} '
-                              f'quantity to {bag[item_id]}'))
+                             f'Updated {product.name} quantity to {bag[item_id]}')
         else:
             bag[item_id] = quantity
             messages.success(request, f'Added {product.name} to your bag')
-           
-    messages.success(request, f'Added {product.name} to your bag.')
+
+    # Save the updated bag to the session
     request.session['bag'] = bag
+    
     return redirect(redirect_url)
 
 

@@ -12,7 +12,7 @@ class Migration(migrations.Migration):
     operations = [
         migrations.RemoveField(
             model_name='product',
-            name='has_sizes',
+            name='has_colors',
         ),
         migrations.AddField(
             model_name='product',

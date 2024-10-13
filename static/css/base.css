@@ -1,6 +1,10 @@
 html {
   height: 100%;
 }
+.bag-icon{
+  width: 100px;
+  background-color: #000;
+}
 
 #about_us_heading {
   margin-top: 30px;
@@ -211,6 +215,10 @@ ul {
   margin-top: 1000px;
   background-color: black;
 } */
+
+.check-latest-btn{
+  background-color: #000;
+}
 
 @media screen and (min-width: 576px) {
   #products_container {
