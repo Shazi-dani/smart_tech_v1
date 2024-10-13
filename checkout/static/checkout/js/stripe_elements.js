@@ -46,19 +46,21 @@ $(document).ready(function () {
 
     // Handle form submission
     var form = document.getElementById('payment-form');
-    form.addEventListener('submit', function (ev) {
+    form.addEventListener('submit', function(ev) {
         ev.preventDefault();
+    
         card.update({ 'disabled': true });
         $('#submit-button').attr('disabled', true);
-
-        // Confirm card payment with Stripe
+    
+        $('#payment-form').fadeToggle(100);
+        $('#loading-overlay').fadeToggle(100);
+    
         stripe.confirmCardPayment(clientSecret, {
             payment_method: {
                 card: card,
             }
-        }).then(function (result) {
+        }).then(function(result) {
             if (result.error) {
-                // Show error in #card-errors
                 var errorDiv = document.getElementById('card-errors');
                 var html = `
                     <span class="icon" role="alert">
@@ -67,13 +69,14 @@ $(document).ready(function () {
                     <span>${result.error.message}</span>
                 `;
                 $(errorDiv).html(html);
+                $('#payment-form').fadeToggle(100);
+                $('#loading-overlay').fadeToggle(100);
                 card.update({ 'disabled': false });
             } else {
-                // Payment succeeded
+                $('#submit-button').attr('disabled', false);
+    
                 if (result.paymentIntent.status === 'succeeded') {
-                    form.submit(); // Submit the form to the server
-                } else {
-                    $('#submit-button').attr('disabled', false); // Re-enable the button if payment failed
+                    form.submit();
                 }
             }
         });
