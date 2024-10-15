@@ -93,6 +93,11 @@ ul {
   background: ☐ white;
   z-index: -1;
   }
+
+  .overlay-signout{
+    position: fixed;
+    top: 500px;
+  }
   .btt-button {
     height: 42px;
     width: 42px;
