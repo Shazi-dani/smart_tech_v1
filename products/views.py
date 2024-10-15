@@ -6,7 +6,6 @@ from django.db.models.functions import Lower
 from .models import Product, Category
 from .forms import ProductForm
 
-
 # Create your views here.
 def all_products(request):
     """ A view to show all products, including sorting and search queries """
@@ -74,10 +73,9 @@ def add_product(request):
     Add a product to the store
     """
 
-     if not request.user.is_superuser:
+    if not request.user.is_superuser:
         messages.error(request, 'Sorry, only store owners can do that.')
         return redirect(reverse('home'))
-
 
     if request.method == 'POST':
         form = ProductForm(request.POST, request.FILES)
@@ -134,7 +132,6 @@ def edit_product(request, product_id):
     }
 
     return render(request, template, context)
-
 
 
 @login_required
