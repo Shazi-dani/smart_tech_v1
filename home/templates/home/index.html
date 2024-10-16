@@ -1,9 +1,5 @@
 {% extends "base.html" %} {% load static %} {% block page_header %} 
-<div class="container header-container">
-  <div class="row">
-    <div class="col"></div>
-  </div>
-</div>
+
 {% endblock %} 
 {% block slider %}
     <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
@@ -30,109 +26,6 @@
           />
         </div>
       </div>
-    </div>
-{% endblock %}
-{% block recommended_products %} 
-<h1 id="recommended_products_heading" class="mt-30">Recommended Products</h1>
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-    <div id="products_container" class="carousel-inner">
-        <div id="carousel-item" class="carousel-item active">
-        <div id="product_card" class="card" >
-            <img src="{% static 'media/item1.png' %}" class="card-img-top" alt="..." />
-            <div class="card-body">
-            <h5 id="recommended_product_heading" class="card-title">Galaxy A9 (ultra pro)</h5>
-            <p id="recommended_product_details"class="card-text">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-            </p>
-            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
-            </div>
-        </div>
-        </div>
-        <div id="carousel-item" class="carousel-item">
-        <div id="product_card" class="card" >
-            <img src="{% static 'media/item2.png' %}" class="card-img-top" alt="..." />
-            <div class="card-body">
-            <h5 id="recommended_product_heading" class="card-title">Vodafones</h5>
-            <p id="recommended_product_details" class="card-text">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-            </p>
-            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
-            </div>
-        </div>
-        </div>
-        <div id="carousel-item" class="carousel-item">
-        <div id="product_card" class="card" >
-            <img src="{% static 'media/item3.png' %}" class="card-img-top" alt="..." />
-            <div class="card-body">
-            <h5 id="recommended_product_heading" class="card-title">Realme (xiaomi)</h5>
-            <p id="recommended_product_details" class="card-text">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-            </p>
-            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
-            </div>
-        </div>
-        </div>
-        <div id="carousel-item" class="carousel-item">
-        <div id="product_card" class="card" >
-            <img src="{% static 'media/item4.png' %}" class="card-img-top" alt="..." />
-            <div class="card-body">
-            <h5 id="recommended_product_heading" class="card-title">Samsung AS (pro)</h5>
-            <p id="recommended_product_details" class="card-text">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-            </p>
-            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
-            </div>
-        </div>
-        </div>
-        <div id="carousel-item" class="carousel-item">
-        <div id="product_card" class="card" >
-            <img src="{% static 'media/item5.png' %}" class="card-img-top" alt="..." />
-            <div class="card-body">
-            <h5 id="recommended_product_heading" class="card-title">Galaxy A9 (ultra pro)</h5>
-            <p id="recommended_product_details" class="card-text">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-            </p>
-            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
-            </div>
-        </div>
-        </div>
-        <div id="carousel-item" class="carousel-item">
-        <div id="product_card" class="card" >
-            <img src="{% static 'media/item6.png' %}" class="card-img-top" alt="..." />
-            <div class="card-body">
-            <h5 id="recommended_product_heading" class="card-title">Galaxy A9 (ultra pro)</h5>
-            <p id="recommended_product_details" class="card-text">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-            </p>
-            <a href="#" id="buy_now_btn" class="btn btn-primary">Buy Now</a>
-            </div>
-        </div>
-        </div>
-    </div>
-    <button
-        class="carousel-control-prev"
-        type="button"
-        data-target="#carouselExampleControls"
-        data-slide="prev"
-    >
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </button>
-    <button
-        class="carousel-control-next"
-        type="button"
-        data-target="#carouselExampleControls"
-        data-slide="next"
-    >
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </button>
     </div>
 {% endblock %}
 {% block content %}
@@ -166,63 +59,62 @@
         inquiries to post-purchase support, we’re committed to providing
         top-notch service every step of the way.
       </p>
-      <a id="shop_now_btn">SHOP NOW</a>
+      <a href="{% url 'products' %}" id="shop_now_btn">SHOP NOW</a>
     </div>
   </div>
 </div>
-<div id="footer" class="container">
-  <div class="row h-100">
-    <div class="col-lg-3">
-      <h4 id="about_us_heading_2">About</h4>
-      <p id="about_us_content_2">
-        we’re dedicated to bringing you the best in smartphone technology,
-        offering a wide selection of the latest and most innovative devices on
-        the market.our extensive collection has something for everyone.
-      </p>
-    </div>
-    <div class="col-lg-3">
-      <h4 id="about_us_heading_2">Social Accounts</h4>
-      <div id="social_media_container" class="row">
-        <div class="col-lg-2">
-          <img id="social_media_logo" src="{% static 'media/fb_logo.png' %}" />
-        </div>
-        <div class="col-lg-2">
-          <img
-            id="social_media_logo"
-            src="{% static 'media/instagram_logo.png' %}"
-          />
-        </div>
-        <div class="col-lg-2">
-          <img
-            id="social_media_logo"
-            src="{% static 'media/linkedIn_logo.png' %}"
-          />
-        </div>
-        <div class="col-lg-2">
-          <img
-            id="social_media_logo"
-            src="{% static 'media/twitter_logo.png' %}"
-          />
+<footer>
+  <div class="container-fluid pt-5 pb-1">
+    <div class="row">
+      <div class="col-md-4">
+        <h4 class="font-weight-bold mb-3 text-center">About</h4>
+        <p class="text-center">we’re dedicated to bringing you the best in smartphone technology, 
+          offering a wide selection of the latest and most innovative devices on the market.
+          our extensive collection has something for everyone.</p>
+      </div>
+      <!-- <div class="col-md-3">
+        <h4 class="font-weight-bold mb-3 text-center">Usefull Links</h4>
+        <p class="text-center">About</p>
+        <p class="text-center">Service</p>
+        <p class="text-center">Products</p>
+        <p class="text-center">Contact</p> 
+      </div> -->
+      <div class="col-md-4">
+        <h4 class="font-weight-bold mb-3 text-center">Contacts</h4>
+        <p class="text-center">Online web-store @</p>
+        <p class="text-center">www.smarttech.com</p>
+        <p class="text-center">smarttechofficial@gmail.com</p>
+        <p class="text-center">13-7654-987699</p> 
+      </div>
+      <div class="col-lg-4">
+        <h4 id="about_us_heading_2" class="text-center" >Social Accounts</h4>
+        <div id="social_media_container" class="row">
+          <div class="col-3">
+            <img id="social_media_logo" src="{% static 'media/fb_logo.png' %}" />
+          </div>
+          <div class="col-3">
+            <img
+              id="social_media_logo"
+              src="{% static 'media/instagram_logo.png' %}"
+            />
+          </div>
+          <div class="col-3">
+            <img
+              id="social_media_logo"
+              src="{% static 'media/linkedIn_logo.png' %}"
+            />
+          </div>
+          <div class="col-3">
+            <img
+              id="social_media_logo"
+              src="{% static 'media/twitter_logo.png' %}"
+            />
+          </div>
         </div>
       </div>
     </div>
-    <div class="col-lg-3">
-      <h4 id="about_us_heading_2">Usefull Links</h4>
-      <ul>
-        <li>About</li>
-        <li>Service</li>
-        <li>Products</li>
-        <li>Contact us</li>
-      </ul>
-    </div>
-    <div class="col-lg-3">
-      <h4 id="about_us_heading_2">Contacts</h4>
-      <ul>
-        <li>Online web-store @ www.smarttech.com</li>
-        <li>smarttechofficial@gmail.com</li>
-        <li>13-7654-987699</li>
-      </ul>
-    </div>
+    <div class="footer-hr"></div>
+    <p class="text-center copyright-statement">Copyright (C) 2024-2055 Smart Tech. All Right Reserved</p>
   </div>
-</div>
+</footer>
 {% endblock %}

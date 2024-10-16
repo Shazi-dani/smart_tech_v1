@@ -2,6 +2,10 @@ html {
   height: 100%;
 }
 
+#carouselExampleInterval{
+  margin-top: 130px;
+}
+
 #about_us_heading {
   margin-top: 30px;
   margin-bottom: 10px;
@@ -38,10 +42,22 @@ html {
   height: 200px;
 }
 #social_media_container {
-  margin-left: 40px;
+  margin-left: 0px;
 }
 #social_media_logo {
-  width: 30px;
+  width: 50px;
+}
+.footer-hr{
+  height: 3px;
+  background-color: #1b365c;
+}
+.copyright-statement{
+  font-weight: 275;
+  font-family: 'poppins';
+  font-size: 10px;
+  line-height: 15px; 
+  color: #1b365c;
+  margin-top: 5px;
 }
 ul {
   list-style-type: none;
@@ -245,6 +261,16 @@ ul {
   border-radius: 0;
 }
 
+.nav-link {
+  color: #1b365c !important;
+}
+#all-products-link {
+  color: #1b365c !important;
+}
+#all-products-link {
+  color: #1b365c;
+}
+
 @media screen and (min-width: 576px) {
   #products_container {
     display: flex;
@@ -287,13 +313,4 @@ ul {
     width: 300px;
     height: 600px;
   }
-}
-.nav-link {
-  color: #1b365c !important;
-}
-#all-products-link {
-  color: #1b365c !important;
-}
-#all-products-link {
-  color: #1b365c;
 }
