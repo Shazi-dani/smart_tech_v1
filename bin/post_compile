@@ -1,5 +1,4 @@
 #!/bin/bash
 
-# Downgrade setuptools after the Python environment is set up
 echo "Downgrading setuptools to 67.8.0"
-pip install setuptools==67.8.0
+python -m pip install --upgrade setuptools==67.8.0
