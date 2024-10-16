@@ -102,12 +102,18 @@ ul {
 .overlay {
   height: 100%;
   width: 100%;
-  top: 20px;
+  top: 50px;
   left: 0;
   position: fixed;
   background: ☐ white;
+  overflow: auto;
   z-index: -1;
 }
+
+.checkout-btn {
+  background-color: #1b365c !important;
+}
+
 .btt-button {
   height: 42px;
   width: 42px;
@@ -299,9 +305,7 @@ ul {
     justify-content: space-evenly;
   }
 
-  .checkout-btn {
-    background-color: #1b365c !important;
-  }
+ 
 
   .checkout-text,
   .checkout-icon {
