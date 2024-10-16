@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Downgrade setuptools before installing other requirements
+echo "Downgrading setuptools to 67.8.0"
+pip install setuptools==67.8.0
