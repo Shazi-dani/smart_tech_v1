@@ -5,19 +5,26 @@
 {% block head_title %}{% trans "Sign Out" %}{% endblock %}
 
 {% block inner_content %}
-<hr>
-<h2 class="logo-font mb-4">{% trans "Sign Out" %}</h2>
-<hr>
-<p>{% trans 'Are you sure you want to sign out?' %}</p>
+<div class="card signup-form signout-form">
+  <h2 class="logo-font mb-1 text-center signup-form-heading">{% trans "Sign Out" %}</h2>
+  <hr>
+  <p class="text-center" >{% trans 'Are you sure you want to sign out?' %}</p>
 
-<form method="post" action="{% url 'account_logout' %}">
-  {% csrf_token %}
-  {% if redirect_field_value %}
-  <input type="hidden" name="{{ redirect_field_name }}" value="{{ redirect_field_value }}"/>
-  {% endif %}
-  <a class="btn btn-outline-black rounded-0" href="{% url 'home' %}">Cancel</a>
-  <button type="submit">{% trans 'Sign Out' %}</button>
-</form>
-
+  <form method="post" action="{% url 'account_logout' %}" class="ml-5 mt-4">
+    {% csrf_token %}
+    {% if redirect_field_value %}
+    <input type="hidden" name="{{ redirect_field_name }}" value="{{ redirect_field_value }}"/>
+    {% endif %}
+    <!-- <a class="btn btn-outline-black rounded-0" href="{% url 'home' %}">Cancel</a> -->
+    <!-- <button type="submit">{% trans 'Sign Out' %}</button> -->
+    <a href="{% url 'home' %}" class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn px-2 ml-2">
+      <span class="icon keep-shopping-icon">
+        <i class="fas fa-chevron-left"></i>
+      </span>
+      <span class="text-uppercase keep-shopping-text">Cancel</span>
+    </a>
+    <button type="submit" id="add-to-bag" class="btn btn-black rounded-0 text-uppercase mt-0 px-3 ml-3" >{% trans 'Sign Out' %}</button>
+  </form>
+</div>
 
 {% endblock %}
