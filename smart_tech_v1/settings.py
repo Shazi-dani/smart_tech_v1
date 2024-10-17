@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-d$-ip_&g!myifd--pnp15bemnx@f5m(*n!)ahsrw=en5*0n2gs
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['smart-tech.herokuapp.com','localhost']
+ALLOWED_HOSTS = ['smart-tech.herokuapp.com', 'localhost']
 
 # Application definition
 
@@ -77,7 +77,7 @@ TEMPLATES = [
             'context_processors': [
                 'django.template.context_processors.debug',
                 'django.template.context_processors.request',
-                'django.contrib.auth.context_processors.auth', # required by allauth
+                'django.contrib.auth.context_processors.auth',  # required by allauth
                 'django.contrib.messages.context_processors.messages',
                 'django.template.context_processors.media',
                 'bag.contexts.bag_contents',
@@ -122,9 +122,7 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.sqlite3',
-            'NAME':   
- os.path.join(BASE_DIR, 'db.sqlite3'),   
-
+            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         }
     }
 
@@ -177,12 +175,7 @@ STANDARD_DELIVERY_PERCENTAGE = 10
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Stripe
-FREE_DELIVERY_THRESHOLD = 50
-
-STANDARD_DELIVERY_PERCENTAGE = 10
-
 STRIPE_CURRENCY = 'usd'
-
 STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', '')
 STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', '')
 STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
