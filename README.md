@@ -1,6 +1,12 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-**June 18, 2024**
+<img width="203" alt="Screenshot 2024-10-20 at 8 52 11 PM" src="https://github.com/user-attachments/assets/e80aa15f-e7c7-420c-a43d-f41005e5a2bf">
+is my Final milestone project for my Level 5 Diploma in Web Application Development with the Code Institute.The project  was named as Smart Tech.I've created a full stack e-commerce website using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & many more Features Like User friendly purchaces, Checkouts etc.
+
+
+## Main Languages Used 
+<img width="534" alt="Screenshot 2024-10-07 at 1 46 45 PM" src="https://github.com/user-attachments/assets/0f4c3680-e5ec-4194-8e81-4aaf19174b00">
+
 
 
 ## User Stories
@@ -31,13 +37,6 @@
 |19|Shopper/Buyer|Sort a specific category of product	|Find the best-priced or best-rated product in a specific category, or sort the products in that category by name|
 |20|Shopper/Buyer|Sort multiple categories of products simultaneously |	Find the best-priced or best-rated products across broad categories, such as "smart Phone" or "Tab"|
 |21|Shopper/Buyer|Search for a product by name or description	|Find a specific product I'd like to purchase|
-
-
-
-
-## Main Languages Used 
-<img width="534" alt="Screenshot 2024-10-07 at 1 46 45 PM" src="https://github.com/user-attachments/assets/0f4c3680-e5ec-4194-8e81-4aaf19174b00">
-
 
 
 
@@ -168,5 +167,5 @@ rm .vscode/uptime.sh
 Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
 
 ---
-
+**June 18, 2024**
 Happy coding!
