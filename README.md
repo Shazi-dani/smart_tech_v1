@@ -48,7 +48,11 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 |27|Shopper/Buyer|Feel my personal and payment information is safe and secure|Confidently provide the needed information to make a purchase|
 |28|Shopper/Buyer|View an order detais for double confirmation|Recheck details & Verify that I haven't made any mistakes|
 |29|Shopper/Buyer|Receive an email confirmation after checking out|Keep the confirmation of what I've purchased for my records|
-
+|<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/8c86bda4-1a92-4796-897e-f64fc862e535">**Admin and Store Management**|
+|30|Store Owner/Admin|Add a product for sale|shopper can shop items to my store|
+|31|Store Owner/Admin|Edit/update a product|Change product prices, descriptions, images, and other product criteria|
+|32|Store Owner/Admin|Delete a product|Remove items that are no longer for sale|
+|33|Store Owner/Admin|View all kind of products|access to all in-stock & out-Stock products|
 
 
 
