@@ -39,6 +39,15 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 |19|Shopper/Buyer|Sort a specific category of product	|Find the best-priced or best-rated product in a specific category, or sort the products in that category by name|
 |20|Shopper/Buyer|Sort multiple categories of products simultaneously |	Find the best-priced or best-rated products across broad categories, such as "smart Phone" or "Tab"|
 |21|Shopper/Buyer|Search for a product by name or description	|Find a specific product I'd like to purchase|
+|22|Shopper/Buyer|Easily see what I've searched for and the number of results|Quickly decide whether the product I want is available or not|
+|<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/8c86bda4-1a92-4796-897e-f64fc862e535">**Purchasing and Checkouts**|
+|23|Shopper/Buyer|Easily select the size and quantity of a product when purchasing it|Ensure I dont accidentally select the wrong product, quantity or size|
+|24|Shopper/Buyer|View items in my bag /Cart to be purchased|Identify the total cost of my purchase and all items I will receive|
+|25|Shopper/Buyer|Adjust the quantity of individual items in my bag or cart|Easily make changes to my purchase before checkout|
+|26|Shopper/Buyer|Easily enter my payment information|Check out quickly and with no hassles|
+|27|Shopper/Buyer|Feel my personal and payment information is safe and secure|Confidently provide the needed information to make a purchase|
+|28|Shopper/Buyer|View an order detais for double confirmation|Recheck details & Verify that I haven't made any mistakes|
+|29|Shopper/Buyer|Receive an email confirmation after checking out|Keep the confirmation of what I've purchased for my records|
 
 
 
