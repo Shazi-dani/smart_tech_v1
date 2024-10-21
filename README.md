@@ -53,12 +53,9 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 |31|Store Owner/Admin|Edit/update a product|Change product prices, descriptions, images, and other product criteria|
 |32|Store Owner/Admin|Delete a product|Remove items that are no longer for sale|
 |33|Store Owner/Admin|View all kind of products|access to all in-stock & out-Stock products|
-
-
-
-
-
-
+## ERD Diagram
+## Design & Typography 
+#### User Experience 
 
 
 ## Gitpod Reminders
