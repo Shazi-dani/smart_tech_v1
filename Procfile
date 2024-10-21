@@ -1,1 +1,1 @@
-web: gunicorn smart_tech_v1.wsgi:application
+web: gunicorn smart_tech_app.wsgi:application
