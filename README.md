@@ -63,6 +63,8 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 #### Home Page Navigations
 <img width="1000" alt="Screenshot 2024-10-22 at 11 39 00 AM" src="https://github.com/user-attachments/assets/09ade9bc-c87f-4a70-8bf1-3f0a475b26e1">
 
+#### Registration
+<img width="1000" alt="Screenshot 2024-10-22 at 11 40 57 AM" src="https://github.com/user-attachments/assets/f60e78b0-ebf6-4915-8faa-4a2be78600ae">
 
 
 
