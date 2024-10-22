@@ -300,6 +300,7 @@ ul {
 @media screen and (min-width: 768px) {
   .signup-form {
     width: 520px;
+    left: 20%;
   }
 }
 
