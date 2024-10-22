@@ -57,6 +57,11 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 ## Design & Typography 
 #### User Experience 
 
+Wirefarmes for Home Page
+<img width="1204" alt="Screenshot 2024-10-22 at 11 33 31 AM" src="https://github.com/user-attachments/assets/dd482320-cbaf-437f-9cb6-de946f3ec391">
+
+
+
 
 ## Gitpod Reminders
 
