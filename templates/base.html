@@ -45,7 +45,7 @@
         >
           <a href="{% url 'home' %}" class="nav-link main-logo-link">
             <h2 class="logo-font text-black my-0">
-              <strong>Smart</strong> Tech New
+              <strong>Smart</strong> Tech
             </h2>
           </a>
         </div>
@@ -84,7 +84,13 @@
               >
                 <div class="text-center">
                   <div><i class="fas fa-user fa-lg"></i></div>
-                  <p class="my-0">My Account</p>
+                  <p class="my-0">
+                    {% if request.user.is_authenticated %}
+                        {{ request.user.username }}
+                    {% else %}
+                        My Account
+                    {% endif %}
+                </p>
                 </div>
               </a>
               <div
