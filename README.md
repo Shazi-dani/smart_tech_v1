@@ -7,10 +7,7 @@ The site can visible here
 [Smart Tech](https://smart-tech-42a1ef4a43e4.herokuapp.com)
 
 
-## Visit Website here
-
-
-
+## Visit Website here[Smart Tech](https://smart-tech-42a1ef4a43e4.herokuapp.com)
 
 ## Main Languages Used 
 
