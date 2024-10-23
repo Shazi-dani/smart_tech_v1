@@ -297,6 +297,13 @@ ul {
   height: 40%;
 }
 
+.latest-deals-btn{
+  background-color: #1b365c;
+}
+.latest-deals-text{
+  color: #fff;
+}
+
 @media screen and (min-width: 768px) {
   .signup-form {
     width: 520px;
