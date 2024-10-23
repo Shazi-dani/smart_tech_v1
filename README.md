@@ -102,9 +102,16 @@ I have used MOSCOW Board as mentioned in MVP to plan my project . It really help
 <img width="619" alt="Screenshot 2024-10-23 at 12 41 16 PM" src="https://github.com/user-attachments/assets/04e67cfe-d525-41d5-a82e-3fa9fa5a9a31">
 
 
-
-
 ## Design & Typography 
+
+I choose colors that provided are carefully chosen for branding and user experience.
+
+1. **White (#FFFFFF)**: Clean and minimal, often used for backgrounds to make content readable and emphasize other colors.
+2. **Light Blue (#C7E4FF)**: A calming, trustworthy color, often associated with technology and professionalism.
+3. **Gray (#9AA1A6)**: Neutral and balanced, typically used for secondary elements or text.
+4. **Red (#DF3D4F)**: Adds vibrancy and calls attention, ideal for highlighting actions or alerts.
+5. **Dark Gray (#222427) and Black (#000000)**: Bold and strong for contrast, often used for text or branding elements.
+6. **Dark Blue (#173761)**: Represents professionalism, reliability, and security. Blue is commonly used in tech brands as it fosters trust, making it an important choice for conveying a dependable brand identity.
 
 ![image](https://github.com/user-attachments/assets/82399fdb-1a11-439a-b0aa-078bbeaeeab2)
 
