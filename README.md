@@ -127,6 +127,13 @@ I choose colors that provided are carefully chosen for branding and user experie
 #### Registration
 <img width="1000" alt="Screenshot 2024-10-22 at 11 40 57 AM" src="https://github.com/user-attachments/assets/f60e78b0-ebf6-4915-8faa-4a2be78600ae">
 
+#### Account Holder
+Account holder or the person who already have an account can log in such a way as given below in screen 
+
+<img width="968" alt="Screenshot 2024-10-23 at 2 07 38 PM" src="https://github.com/user-attachments/assets/69487e7c-824b-4284-8b8c-603273bfc2c0">
+
+#### Logout 
+<img width="968" alt="Screenshot 2024-10-23 at 2 09 14 PM" src="https://github.com/user-attachments/assets/9ad66c44-cc8e-400e-a746-c1ef80b0f348">
 
 
 ## Technologies Used
