@@ -1,13 +1,14 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<img width="1228" alt="Screenshot 2024-10-23 at 10 05 14 AM" src="https://github.com/user-attachments/assets/3bcf8df7-b863-4cbb-a24b-9a40c116d823">
 
 <img width="203" alt="Screenshot 2024-10-20 at 8 52 11 PM" src="https://github.com/user-attachments/assets/e80aa15f-e7c7-420c-a43d-f41005e5a2bf">
-is my Final milestone project for my Level 5 Diploma in Web Application Development with the Code Institute.The project  was named as Smart Tech.I've created a full stack e-commerce website using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & many more Features Like User friendly purchaces, Checkouts etc.
+is my Final milestone project for my Level 5 Diploma in Web Application Development with the Code Institute.The project  was named as Smart Tech.I've created a full stack e-commerce website using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & many more Features Like User friendly purchaces, Checkouts etc.Smart Tech is a full stack  B2C e-commerce website built using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & Email integration system.
+
+
 
 
 ## Main Languages Used 
 
-<img width="525" alt="Screenshot 2024-10-23 at 9 57 59 AM" src="https://github.com/user-attachments/assets/36c7b25a-a626-45f8-a812-9faf0fce9c2a">
-<img width="404" alt="Screenshot 2024-10-23 at 9 48 30 AM" src="https://github.com/user-attachments/assets/4f49b8a2-29b4-488b-aab0-946373d187e4">
 <img width="242" alt="Screenshot 2024-10-23 at 9 35 29 AM" src="https://github.com/user-attachments/assets/f94bf4c5-7669-4431-865e-9d0164d039de">
 <img width="242" alt="Screenshot 2024-10-23 at 9 35 59 AM" src="https://github.com/user-attachments/assets/91f4eaa3-9ed6-4b35-a597-aa7e1ce53fe0">
 
@@ -59,6 +60,8 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 #### User Experience 
 
 
+<img width="525" alt="Screenshot 2024-10-23 at 9 57 59 AM" src="https://github.com/user-attachments/assets/36c7b25a-a626-45f8-a812-9faf0fce9c2a">
+<img width="404" alt="Screenshot 2024-10-23 at 9 48 30 AM" src="https://github.com/user-attachments/assets/4f49b8a2-29b4-488b-aab0-946373d187e4">
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
