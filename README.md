@@ -188,10 +188,6 @@ I followed the following steps:
 See the deployment log - if the deployment was successful, you will be prompted with option to see live page
 
 
-
-
-[Go Top]((https://github.com/Shazi-dani/smart_tech_v1/edit/main/README.md))
-
 ------
 
 ------
