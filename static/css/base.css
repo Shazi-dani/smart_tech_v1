@@ -311,16 +311,16 @@ ul {
   }
 }
 
+.checkout-text,
+.checkout-icon {
+  color: #fff;
+}
 @media screen and (min-width: 576px) {
   #products_container {
     display: flex;
     justify-content: space-evenly;
   }
 
-  .checkout-text,
-  .checkout-icon {
-    color: #fff;
-  }
 
   .keep-shopping-btn {
     border: 1px solid#1b365c;
