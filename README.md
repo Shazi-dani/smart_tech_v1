@@ -73,7 +73,18 @@ The site can visible here
 <img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
 
 ## Design & Typography 
-#### User Experience 
+## User Experience ( Wirefarmes )
+
+#### Home Page
+<img width="1204" alt="Screenshot 2024-10-22 at 11 33 31 AM" src="https://github.com/user-attachments/assets/dd482320-cbaf-437f-9cb6-de946f3ec391">
+
+#### Home Page Navigations
+<img width="1000" alt="Screenshot 2024-10-22 at 11 39 00 AM" src="https://github.com/user-attachments/assets/09ade9bc-c87f-4a70-8bf1-3f0a475b26e1">
+
+#### Registration
+<img width="1000" alt="Screenshot 2024-10-22 at 11 40 57 AM" src="https://github.com/user-attachments/assets/f60e78b0-ebf6-4915-8faa-4a2be78600ae">
+
+
 
 
 <img width="525" alt="Screenshot 2024-10-23 at 9 57 59 AM" src="https://github.com/user-attachments/assets/36c7b25a-a626-45f8-a812-9faf0fce9c2a">
