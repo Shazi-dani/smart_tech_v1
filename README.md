@@ -11,6 +11,11 @@ The site can visible here
 ## Project Scope
 The website "Smart Tech" aims to offer a comprehensive online store for smartphones and tech accessories, focusing on delivering the latest devices from top brands like Apple, Samsung, and Vivo. It is designed to provide users with product comparisons, reviews, and buying guides to assist in making informed decisions, while ensuring a smooth shopping experience.
 
+The website is designed to create an accessible online platform where users can browse and purchase smartphones, tablets, and related tech accessories. Its goal is to cater to both tech enthusiasts and casual shoppers by offering detailed product listings, comparisons, and personalized recommendations. The site emphasizes user-friendly navigation, secure transactions, and a seamless shopping experience with features like order tracking and responsive customer support. 
+
+It also aims to stay updated with the latest trends in tech and mobile innovation, consistently refreshing its product catalog to feature new releases from top brands. By focusing on high-quality, user-centered design, the platform intends to build trust and provide customers with all the information needed to make confident purchasing decisions.
+
+
 **Feature Listing:**
 1. Product catalog for smartphones, tablets, and accessories.
 2. User accounts for shopping and order tracking.
@@ -18,6 +23,18 @@ The website "Smart Tech" aims to offer a comprehensive online store for smartpho
 4. Secure payment and real-time order tracking.
 5. Fast and reliable shipping options.
 
+
+**Feature Detail:**
+1. **Product Catalog**: A well-organized listing of smartphones, tablets, and accessories from leading brands like Apple, Samsung, Vivo, and others. Each product includes detailed specifications, pricing, and stock availability.   
+2. **User Account System**: Allows customers to create personal accounts to save preferences, manage their wishlists, and track current and previous orders.   
+3. **Product Comparisons**: A feature that allows users to compare specifications, features, and pricing of different smartphones to aid in decision-making. 
+4. **Buying Guides**: Expertly curated buying guides to help users navigate the best options based on specific needs, such as gaming, photography, or budget considerations.
+5. **Secure Payment Gateway**: A robust, encrypted payment system that supports multiple payment options like credit cards, digital wallets, and net banking. Ensures a secure and hassle-free checkout experience.
+6. **Order Tracking**: Customers can view real-time tracking of their orders, receive notifications about the shipping status, and estimated delivery time.  
+7. **Fast Shipping**: Partnering with top logistics providers to offer fast, reliable delivery options for customers, including express shipping in select regions.
+8. **Mobile-Friendly Interface**: A responsive website design optimized for mobile devices, ensuring smooth navigation and usability on smaller screens.
+
+   
 ## User Stories
 
 |Story ID |AS A/AN |I WANT TO BE ABLE TO...|SO THAT I CAN...|
@@ -88,6 +105,10 @@ I have used MOSCOW Board as mentioned in MVP to plan my project . It really help
 
 
 ## Design & Typography 
+
+![image](https://github.com/user-attachments/assets/82399fdb-1a11-439a-b0aa-078bbeaeeab2)
+
+
 ## User Experience ( Wirefarmes )
 
 #### Home Page
