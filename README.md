@@ -2,7 +2,11 @@
 
 <img width="203" alt="Screenshot 2024-10-20 at 8 52 11 PM" src="https://github.com/user-attachments/assets/e80aa15f-e7c7-420c-a43d-f41005e5a2bf">
 is my Final milestone project for my Level 5 Diploma in Web Application Development with the Code Institute.The project  was named as Smart Tech.I've created a full stack e-commerce website using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & many more Features Like User friendly purchaces, Checkouts etc.Smart Tech is a full stack  B2C e-commerce website built using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & Email integration system.
-The site can visible here  [Smart Tech]https://smart-tech-42a1ef4a43e4.herokuapp.com)
+The site can visible here
+
+[Smart Tech](https://smart-tech-42a1ef4a43e4.herokuapp.com)
+
+
 ## Visit Website here
 
 
