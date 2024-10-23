@@ -129,52 +129,63 @@ I choose colors that provided are carefully chosen for branding and user experie
 
 
 
+## Technologies Used
+
+- [**Django/Jinja**](https://docs.djangoproject.com/en/5.0/) - main Framework of the project and 
+   DjangoREST framework to implement some of the REST Api end points.
+- [**Python**](https://www.python.org/) - main BackEnd programming language of the project
+- [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML) - templates programming language of this project (FrontEnd)
+- [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS) - styling the project via external CSS file `./static/css/style.css`
+- [**Java Script**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - dynamic templates programming language of this project (FrontEnd)
+- [**jQuery**](https://api.jquery.com/) - API for JavaScript - dynamic templates programming language of this project (FrontEnd)
+- [**Bootstrap v. 5.3**](https://getbootstrap.com/) - styling framework used in this project (FrontEnd)
+- [**Heroku**](https://heroku.com) - to deploy this project
+- [**Balsamiq**](https://balsamiq.com/support/) - to create wireframes
+- [**Git**](https://git-scm.com/doc) - to make commitments of progress and push the results back to GitHub
+- [**GitHub**](https://github.com/) - to keep the track of version control
+- [**Gitpod**](https://gitpod.com/) - online IDE - CodeAnywhere was initially used to create this project
+- [**Postgres**](https://www.postgresql.org/) - Postgres database was used to build and deploy external database and institute provided external database was configured.
+- [**ChatGPT**](hhttps://chatgpt.com/) - Use ChatGPT for searching new trends for website.
+- [**MDB Snippets**](https://mdbootstrap.com/snippet) - Use MDB Snippets for creating icons.
 
 
+## Deployment
+To ensure users are able to view live version of "DT Autos garage" project.
+
+I followed the following steps:
+
+1:Register & Log In with heroku
+
+2: Navigate to New > Create New App
+
+3: Select Name of the app that is unique
+
+4: Navigate to Settings > Reveal Config Vars
+
+5: Add all variables from env.py to ConfigVars of Heroku App
+
+6: Add variable pair PORT:8000
+
+7: For the testing deployment add variable pair COLLECT_STATIC:1
+
+8:  Add the Heroku app URL into ALLOWED HOSTS in settings.py
+
+9: In root create file name Procfile
+
+10:Navigate to Deploy > GitHub > Connect
+
+11: Navigate to Deploy > Deploy Branch
+
+12: Optionally, you can enable automatic deploys
+
+See the deployment log - if the deployment was successful, you will be prompted with option to see live page
+
+
+
+
+[Go Top]((https://github.com/Shazi-dani/smart_tech_v1/edit/main/README.md))
 
 ------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**June 18, 2024,** Add Mongo back into template
-
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
-
-**May 28 2024:** Fix Mongo and Links installs
-
-**April 26 2024:** Update node version to 16
-
-**September 20 2023:** Update Python version to 3.9.17.
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
 ------
 
