@@ -104,6 +104,7 @@ I have used MOSCOW Board as mentioned in MVP to plan my project . It really help
 
 ## Design & Typography 
 
+The fonts i used for this project were plain, simple & easy to read and look pleasant to the eye. I have used the [Font Poppins](https://fonts.google.com/specimen/Poppins) & on many palces the default font by bootstrap [bootstrap css](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) as the default typography and styling reference.
 I choose colors that provided are carefully chosen for branding and user experience.
 
 1. **White (#FFFFFF)**: Clean and minimal, often used for backgrounds to make content readable and emphasize other colors.
