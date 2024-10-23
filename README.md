@@ -4,16 +4,19 @@
 is my Final milestone project for my Level 5 Diploma in Web Application Development with the Code Institute.The project  was named as Smart Tech.I've created a full stack e-commerce website using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & many more Features Like User friendly purchaces, Checkouts etc.Smart Tech is a full stack  B2C e-commerce website built using Django, Python, HTML, CSS and JavaScript. The website utilises Stripe as the payment processor & Email integration system.
 The site can visible here
 
-[Smart Tech](https://smart-tech-42a1ef4a43e4.herokuapp.com)
+[**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com)
 
+#### Main Languages Used <img width="242" alt="Screenshot 2024-10-23 at 9 35 29 AM" src="https://github.com/user-attachments/assets/f94bf4c5-7669-4431-865e-9d0164d039de"><img width="242" alt="Screenshot 2024-10-23 at 9 35 59 AM" src="https://github.com/user-attachments/assets/91f4eaa3-9ed6-4b35-a597-aa7e1ce53fe0">
 
-## Visit Website here[Smart Tech](https://smart-tech-42a1ef4a43e4.herokuapp.com)
+## Project Scope
+The website "Smart Tech" aims to offer a comprehensive online store for smartphones and tech accessories, focusing on delivering the latest devices from top brands like Apple, Samsung, and Vivo. It is designed to provide users with product comparisons, reviews, and buying guides to assist in making informed decisions, while ensuring a smooth shopping experience.
 
-## Main Languages Used 
-
-<img width="242" alt="Screenshot 2024-10-23 at 9 35 29 AM" src="https://github.com/user-attachments/assets/f94bf4c5-7669-4431-865e-9d0164d039de">
-<img width="242" alt="Screenshot 2024-10-23 at 9 35 59 AM" src="https://github.com/user-attachments/assets/91f4eaa3-9ed6-4b35-a597-aa7e1ce53fe0">
-
+**Feature Listing:**
+1. Product catalog for smartphones, tablets, and accessories.
+2. User accounts for shopping and order tracking.
+3. Reviews and buying guides for informed purchases.
+4. Secure payment and real-time order tracking.
+5. Fast and reliable shipping options.
 
 ## User Stories
 
