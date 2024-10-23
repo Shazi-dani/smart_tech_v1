@@ -55,7 +55,18 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 |31|Store Owner/Admin|Edit/update a product|Change product prices, descriptions, images, and other product criteria|
 |32|Store Owner/Admin|Delete a product|Remove items that are no longer for sale|
 |33|Store Owner/Admin|View all kind of products|access to all in-stock & out-Stock products|
-## ERD Diagram
+##  Entity Relationship Diagram (ERD)
+### ERD Structure:
+- **User (Authentication)**: To manage user credentials (username, email, password).
+- **UserProfile**: Holds customer-specific information such as full name, addresses, and phone number.
+- **Category**: Categorizes products, now with fields like `name` and `friendly_name`.
+- **Product**: Includes SKU, stock, price, image URL, and rating fields.
+- **Order**: Contains information related to orders, including delivery cost, user profile link, and a payment identifier (e.g., Stripe PID).
+- **OrderLineItem**: Tracks product quantities and total cost for each item in the order.
+- **ContactForm**: Manages customer inquiries or messages.
+
+<img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
+
 ## Design & Typography 
 #### User Experience 
 
