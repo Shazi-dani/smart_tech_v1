@@ -27,7 +27,3 @@ urlpatterns = [
     path('checkout/', include('checkout.urls')),
     path('profile/', include('profiles.urls')),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
-
-
-handler404 = 'django.views.defaults.page_not_found'
-handler503 = 'django.views.defaults.server_error'
