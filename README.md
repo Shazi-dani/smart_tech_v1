@@ -57,6 +57,8 @@ The site can visible here
 |31|Store Owner/Admin|Edit/update a product|Change product prices, descriptions, images, and other product criteria|
 |32|Store Owner/Admin|Delete a product|Remove items that are no longer for sale|
 |33|Store Owner/Admin|View all kind of products|access to all in-stock & out-Stock products|
+
+
 ##  Entity Relationship Diagram (ERD)
 ### ERD Structure:
 - **User (Authentication)**: To manage user credentials (username, email, password).
@@ -68,6 +70,12 @@ The site can visible here
 - **ContactForm**: Manages customer inquiries or messages.
 
 <img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
+
+
+## Agile Planing 
+I have used MOSCOW Board as mentioned in MVP to plan my project . It really help me to onboard my project & review all the funtionality an ongoing process. I have divide Whole project in 6 Bigger Milestones. Every milestone has some user stories(as mentioned above). According to requirement I label my issues accordingly. Complete board review can be visible through link & below I have given some screens to review 
+
+
 
 ## Design & Typography 
 ## User Experience ( Wirefarmes )
