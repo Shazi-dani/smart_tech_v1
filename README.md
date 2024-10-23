@@ -5,10 +5,11 @@ is my Final milestone project for my Level 5 Diploma in Web Application Developm
 
 
 ## Main Languages Used 
-<img width="534" alt="Screenshot 2024-10-07 at 1 46 45 PM" src="https://github.com/user-attachments/assets/0f4c3680-e5ec-4194-8e81-4aaf19174b00">
-<img width="340" alt="Screenshot 2024-10-19 at 11 31 55 AM" src="https://github.com/user-attachments/assets/b231ee63-d557-43a7-b39f-63791f0296f8">
 
-
+<img width="525" alt="Screenshot 2024-10-23 at 9 57 59 AM" src="https://github.com/user-attachments/assets/36c7b25a-a626-45f8-a812-9faf0fce9c2a">
+<img width="404" alt="Screenshot 2024-10-23 at 9 48 30 AM" src="https://github.com/user-attachments/assets/4f49b8a2-29b4-488b-aab0-946373d187e4">
+<img width="242" alt="Screenshot 2024-10-23 at 9 35 29 AM" src="https://github.com/user-attachments/assets/f94bf4c5-7669-4431-865e-9d0164d039de">
+<img width="242" alt="Screenshot 2024-10-23 at 9 35 59 AM" src="https://github.com/user-attachments/assets/91f4eaa3-9ed6-4b35-a597-aa7e1ce53fe0">
 
 
 ## User Stories
