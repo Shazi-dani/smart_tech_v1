@@ -40,17 +40,24 @@ It also aims to stay updated with the latest trends in tech and mobile innovatio
 |Story ID |AS A/AN |I WANT TO BE ABLE TO...|SO THAT I CAN...|
 |---------|--------|-----------------------|----------------|
 |<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/e2612a7a-7a56-4e05-b371-5490b4dc0d7f">**Viewing & Navigation**|
-|1|Any User|	Nevigate to Site or Home Screen| Get what i want or require| 
-|2|Shopper/Buyer|View a list of products|	Select some to purchase|
-|3|Shopper/Buyer|view Category Listing|Find specific items of my interested, without having to scroll through all products|
-|4|Shopper/Buyer|Search By Typing Name of Product|Save my  Time| 
-|5|Shopper/Buyer|Add Filers to Get Specific Offers|Save money| 
-|6|Shopper/Buyer|View Items/ Products to Quickly identify deals & clearance or items  with  special offers|Take advantage of special savings on products I'd like to purchase|
-|7|Shopper/Buyer|View individual product details|Identify the price, description, product rating, product image and available sizes.|
-|8|Shopper/Buyer|View my wished/ Selected purchases|to view more detail about Product and pricing also ammend Quantity if needed|
-|9|Shopper/Buyer|Easily view the total of my Ongoing purchases at any time|Avoid spending too much & Shipping Charges|
-|10|Shopper/Buyer|View my product wish List|make purchase from this in future|
-|11|Shopper/Buyer|View Cart / Bag |check that my concern things is in my Bag or CART|
+|1|Any User|	Nevigate to Site website| Get what i want or require| 
+|2|Shopper/Buyer|View a Home Page |	To see all the Products & facilities available on Smart Tech|
+|3|Shopper/Buyer|View Navigation Bar having search bar, Login access & many other options|So that he can Search & login accordingly|
+|4|Shopper/Buyer|View a Icon of Registeration|so that he can register easily|
+|5|Shopper/Buyer|view Category Listing|Find specific items of my interested, without having to scroll through all products|
+|6|Shopper/Buyer|View a list of products|	Select some to purchase|
+|7|Shopper/Buyer|Search By Typing Name of Product|Save my  Time| 
+|8|Shopper/Buyer|Add Filers to Get Specific Offers|Save money & time| 
+|9|Shopper/Buyer|View Sort list in filter |To Get Specific product and Save money & time| 
+|10|Shopper/Buyer|View Items/ Products to Quickly identify deals & clearance or items  with  special offers|Take advantage of special savings on products I'd like to purchase|
+|11|Shopper/Buyer|View individual product details|Identify the price, description, product rating, product image and available sizes.|
+|12|Shopper/Buyer|View my wished/ Selected purchases|to view more detail about Product and pricing|
+|13|Shopper/Buyer|View Quantify Button| to ammend Quantity if needed|
+|14|Shopper/Buyer|Easily view the total of my Ongoing purchases at any time|Avoid spending too much & Shipping Charges|
+|15|Shopper/Buyer|View my wished product|make purchase from this in future|
+|16|Shopper/Buyer|View Cart / Bag |check that my concern things is in my Bag or CART|
+|17|Shopper/Buyer|View Keep Shoping Button |to easily navigate again to home page to buy more products|
+
 |<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/0d655526-7480-4390-8fca-4f338a4480e0">**Registration and User Accounts**|
 |12|Site User|Easily register for an account|Have a personal account and be able to view my profile to check order details |
 |13|Site User|Receive an email confirmation after registering	|Verify that my account registration was successful|
