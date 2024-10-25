@@ -139,6 +139,9 @@ Account holder or the person who already have an account can log in such a way a
 #### All Product View
 <img width="1085" alt="Screenshot 2024-10-23 at 4 24 23 PM" src="https://github.com/user-attachments/assets/ccac2970-5858-4929-b3cf-b15a250133da">
 
+#### Single Product Detail
+<img width="1085" alt="Screenshot 2024-10-23 at 4 30 46 PM" src="https://github.com/user-attachments/assets/3680ab8d-7ac4-41db-a821-f9adf6aa5b4a">
+
 
 ## Technologies Used
 
