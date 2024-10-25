@@ -142,6 +142,9 @@ Account holder or the person who already have an account can log in such a way a
 #### Single Product Detail
 <img width="1085" alt="Screenshot 2024-10-23 at 4 30 46 PM" src="https://github.com/user-attachments/assets/3680ab8d-7ac4-41db-a821-f9adf6aa5b4a">
 
+## Home Page
+<img width="1280" alt="Screenshot 2024-10-25 at 7 02 37 AM" src="https://github.com/user-attachments/assets/47126e1f-bde2-4501-b81e-1e5b0e560dfd">
+
 
 ## Technologies Used
 
