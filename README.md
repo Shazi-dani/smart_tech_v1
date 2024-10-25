@@ -144,6 +144,21 @@ Account holder or the person who already have an account can log in such a way a
 
 ## Home Page
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 37 AM" src="https://github.com/user-attachments/assets/47126e1f-bde2-4501-b81e-1e5b0e560dfd">
+## Home Page Navigations
+
+***Home Page Nav***
+<img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
+
+
+***Mobile Home Page Navigation***. 
+
+When ever we open a Smart Tech Link on small screens or on a mobile device following pattern will be displayed on our screens.As given below here in the picture
+
+<img width="521" alt="Screenshot 2024-10-25 at 7 05 39 AM" src="https://github.com/user-attachments/assets/bf1e1834-cdaf-4d5b-86cd-0f5b307ecf75">
+
+***Mobile Home Page Navigation Action***. 
+
+<img width="521" alt="Screenshot 2024-10-25 at 7 05 46 AM" src="https://github.com/user-attachments/assets/07965796-3b03-4276-a9cf-6f58876e8dcd">
 
 
 ## Technologies Used
