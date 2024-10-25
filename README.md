@@ -59,30 +59,32 @@ It also aims to stay updated with the latest trends in tech and mobile innovatio
 |17|Shopper/Buyer|View Keep Shoping Button |to easily navigate again to home page to buy more products|
 |<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/0d655526-7480-4390-8fca-4f338a4480e0">**Registration and User Accounts**|
 |18|Site User|Easily register for an account|Have a personal account and be able to view my profile to check order details |
-|19|Site User|Receive an email confirmation after registering	|Verify that my account registration was successful|
-|20|Site User|Easily login or logout|To secure my personal account information|
-|21|Site User|Easily recover my password |in case I forget it	Recover access to my account|
-|22|Site User|Receive a confirmation email| verify| 
-|23|Site User|Have a personalized user profile|View my personal order history and order confirmations, and save my payment information|
+|19|Site User|Register by e-mail & username|so that he can easily login for next use |
+|20|Site User|Receive an email confirmation after registering	|To verify that my account registration was successful|
+|21|Site User|Easily login or logout|To secure my personal account information|
+|22|Site User|Easily Re-access his Password in case he forgot that |To again access his personal account &  secure his previous information|
+|23|Site User|Easily recover my password |in case I forget it	Recover access to my account|
+|24|Site User|Receive a confirmation email| verify| 
+|25|Site User|Have a personalized user profile|View my personal order history and order confirmations, and save my payment information|
 |<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/8c86bda4-1a92-4796-897e-f64fc862e535">**Sorting and Searching**|
-|24|Shopper/Buyer|Sort the list of available products|Easily identify the best rated, best priced and categorically sorted products|
-|25|Shopper/Buyer|Sort a specific category of product	|Find the best-priced or best-rated product in a specific category, or sort the products in that category by name|
-|26|Shopper/Buyer|Sort multiple categories of products simultaneously |	Find the best-priced or best-rated products across broad categories, such as "smart Phone" or "Tab"|
-|27|Shopper/Buyer|Search for a product by name or description	|Find a specific product I'd like to purchase|
-|28|Shopper/Buyer|Easily see what I've searched for and the number of results|Quickly decide whether the product I want is available or not|
+|26|Shopper/Buyer|Sort the list of available products|Easily identify the best rated, best priced and categorically sorted products|
+|27|Shopper/Buyer|Sort a specific category of product	|Find the best-priced or best-rated product in a specific category, or sort the products in that category by name|
+|28|Shopper/Buyer|Sort multiple categories of products simultaneously |	Find the best-priced or best-rated products across broad categories, such as "smart Phone" or "Tab"|
+|29|Shopper/Buyer|Search for a product by name or description	|Find a specific product I'd like to purchase|
+|30|Shopper/Buyer|Easily see what I've searched for and the number of results|Quickly decide whether the product I want is available or not|
 |<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/8c86bda4-1a92-4796-897e-f64fc862e535">**Purchasing and Checkouts**|
-|29|Shopper/Buyer|Easily select the size and quantity of a product when purchasing it|Ensure I dont accidentally select the wrong product, quantity or size|
-|30|Shopper/Buyer|View items in my bag /Cart to be purchased|Identify the total cost of my purchase and all items I will receive|
-|31|Shopper/Buyer|Adjust the quantity of individual items in my bag or cart|Easily make changes to my purchase before checkout|
-|32|Shopper/Buyer|Easily enter my payment information|Check out quickly and with no hassles|
-|33|Shopper/Buyer|Feel my personal and payment information is safe and secure|Confidently provide the needed information to make a purchase|
-|34|Shopper/Buyer|View an order detais for double confirmation|Recheck details & Verify that I haven't made any mistakes|
-|35|Shopper/Buyer|Receive an email confirmation after checking out|Keep the confirmation of what I've purchased for my records|
+|31|Shopper/Buyer|Easily select the size and quantity of a product when purchasing it|Ensure I dont accidentally select the wrong product, quantity or size|
+|32|Shopper/Buyer|View items in my bag /Cart to be purchased|Identify the total cost of my purchase and all items I will receive|
+|33|Shopper/Buyer|Adjust the quantity of individual items in my bag or cart|Easily make changes to my purchase before checkout|
+|34|Shopper/Buyer|Easily enter my payment information|Check out quickly and with no hassles|
+|35|Shopper/Buyer|Feel my personal and payment information is safe and secure|Confidently provide the needed information to make a purchase|
+|36|Shopper/Buyer|View an order detais for double confirmation|Recheck details & Verify that I haven't made any mistakes|
+|37|Shopper/Buyer|Receive an email confirmation after checking out|Keep the confirmation of what I've purchased for my records|
 |<img width="28" alt="Screenshot 2024-10-11 at 8 09 32 AM" src="https://github.com/user-attachments/assets/8c86bda4-1a92-4796-897e-f64fc862e535">**Admin and Store Management**|
-|36|Store Owner/Admin|Add a product for sale|shopper can shop items to my store|
-|37|Store Owner/Admin|Edit/update a product|Change product prices, descriptions, images, and other product criteria|
-|38|Store Owner/Admin|Delete a product|Remove items that are no longer for sale|
-|39|Store Owner/Admin|View all kind of products|access to all in-stock & out-Stock products|
+|38|Store Owner/Admin|Add a product for sale|shopper can shop items to my store|
+|39|Store Owner/Admin|Edit/update a product|Change product prices, descriptions, images, and other product criteria|
+|40|Store Owner/Admin|Delete a product|Remove items that are no longer for sale|
+|41|Store Owner/Admin|View all kind of products|access to all in-stock & out-Stock products|
 
 
 ##  Entity Relationship Diagram (ERD)
