@@ -81,6 +81,11 @@
                                             {% if product.rating %}
                                                 <small class="text-muted"><i class="fa fa-star mr-1"></i>{{ product.rating }} / 5</small>
                                             {% else %}
+                                            {% if product.category == 'refurbished_samsung' or product.category == 'refurbished_vivo' or product.category == 'refurbished_oppo' %}
+                                                <small class="">Refurbished</small>
+                                            {% endif %}
+
+
                                                 <small class="text-muted">No Rating</small>
                                             {% endif %}
                                             {% if request.user.is_superuser %}

@@ -359,3 +359,31 @@ ul {
     margin-top: 130px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .bag-table-head{
+    display: none;
+  }
+  .bag-table-body-row{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 80px;
+  }
+  .bag-table-body-row td img{
+    width: 300px !important;
+    margin-left: 0;
+  }
+  .quantity-form{
+    width: 300px !important;
+    padding-left: 20px !important;
+  }
+  .qty_input{
+    width: 130px !important;
+    margin-left: -20px;
+
+  }
+  .update-link{
+    margin-left: -10px !important;
+  }
+}

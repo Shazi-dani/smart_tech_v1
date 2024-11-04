@@ -1,19 +1,24 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
     <title>FAQ</title>
 </head>
 <body>
-    <h1>Frequently Asked Questions</h1>
-    <ul>
-        {% for faq in faqs %}
-            <li>
-                <strong>{{ faq.question }}</strong>
-                <p>{{ faq.answer }}</p>
-            </li>
-        {% endfor %}
-    </ul>
+    <div class="container my-5">
+        <h1 class="faq-header">Frequently Asked Questions</h1>
+        <ul class="faq-list">
+            {% for faq in faqs %}
+                <li class="faq-item">
+                    <strong class="faq-question">{{ faq.question }}</strong>
+                    <p class="faq-answer">{{ faq.answer }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
 </body>
 </html>

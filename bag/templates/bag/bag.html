@@ -25,7 +25,7 @@
     
       <div class="table-responsive rounded">
         <table class="table table-sm table-borderless">
-          <thead class="text-black">
+          <thead class="text-black bag-table-head">
             <tr>
               <th scope="col">Product Info</th>
               <th scope="col"></th>
@@ -36,7 +36,7 @@
           </thead>
           <tbody>
             {% for item in bag_items %}
-            <tr>
+            <tr class="bag-table-body-row">
               <td class="p-3 w-25">
                 {% if item.product.image %}
                 <img class="w-100" src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
@@ -57,7 +57,7 @@
               <td class="py-3 w-25">
                 <p class="my-0">€{{ item.product.price }}</p>
               </td>
-              <td class="py-3 w-25">
+              <td class="py-3 w-25 quantity-form">
                 <form class="form update-form" method="POST" action="{% url 'adjust_bag' item.item_id %}">
                   {% csrf_token %}
                   <div class="input-group">
