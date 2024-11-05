@@ -168,6 +168,11 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 
 <img width="521" alt="Screenshot 2024-10-25 at 7 05 46 AM" src="https://github.com/user-attachments/assets/07965796-3b03-4276-a9cf-6f58876e8dcd">
 
+***Single Product Details***. 
+<img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
+
+
+
 
 ## Technologies Used
 
