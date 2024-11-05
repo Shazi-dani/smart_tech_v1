@@ -6,7 +6,11 @@ The site can visible here
 
 [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com)
 
-#### Main Languages Used <img width="242" alt="Screenshot 2024-10-23 at 9 35 29 AM" src="https://github.com/user-attachments/assets/f94bf4c5-7669-4431-865e-9d0164d039de"><img width="242" alt="Screenshot 2024-10-23 at 9 35 59 AM" src="https://github.com/user-attachments/assets/91f4eaa3-9ed6-4b35-a597-aa7e1ce53fe0">
+#### Main Languages Used
+
+<img width="242" alt="Screenshot 2024-10-23 at 9 35 29 AM" src="https://github.com/user-attachments/assets/f94bf4c5-7669-4431-865e-9d0164d039de">
+
+<img width="242" alt="Screenshot 2024-10-23 at 9 35 59 AM" src="https://github.com/user-attachments/assets/91f4eaa3-9ed6-4b35-a597-aa7e1ce53fe0">
 
 ## Project Scope
 The website "Smart Tech" aims to offer a comprehensive online store for smartphones and tech accessories, focusing on delivering the latest devices from top brands like Apple, Samsung, and Vivo. It is designed to provide users with product comparisons, reviews, and buying guides to assist in making informed decisions, while ensuring a smooth shopping experience.
@@ -113,6 +117,7 @@ I have used MOSCOW Board as mentioned in MVP to plan my project . It really help
 ## Design & Typography 
 
 The fonts i used for this project were plain, simple & easy to read and look pleasant to the eye. I have used the [Font Poppins](https://fonts.google.com/specimen/Poppins) & on many palces the default font by bootstrap [bootstrap css](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) as the default typography and styling reference.
+
 I choose colors that provided are carefully chosen for branding and user experience.
 
 1. **White (#FFFFFF)**: Clean and minimal, often used for backgrounds to make content readable and emphasize other colors.
