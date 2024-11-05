@@ -152,6 +152,8 @@ Account holder or the person who already have an account can log in such a way a
 
 ## Home Page
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 37 AM" src="https://github.com/user-attachments/assets/47126e1f-bde2-4501-b81e-1e5b0e560dfd">
+
+
 ## Home Page Navigations
 
 ***Home Page Nav***
@@ -171,7 +173,19 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 ***Single Product Details***. 
 <img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
 
-***Quantify your Product***.
+
+## Quantify your Product
+
+The "Quantify Product" button on your website is a user-friendly component designed to help customers select the desired quantity of a product with ease. This button typically consists of a plus (+) and minus (-) sign surrounding a number field. By clicking the plus or minus buttons, users can increase or decrease the quantity in increments, often by one unit. This setup provides a quick, interactive way for users to adjust the number of items without needing to type or navigate complex dropdown menus, enhancing the overall shopping experience. For added convenience, some designs allow users to type a quantity directly into the field if they need a specific number that might be quicker to type.
+
+
+**Component Layout:**
+
+
+The quantity selector has three main parts:
+- A minus button (-) on the left side to decrease the quantity.
+- A number field in the center to display the current quantity. This can sometimes be editable, allowing users to type in a number directly.
+- A plus button (+) on the right side to increase the quantity.
 <img width="249" alt="Screenshot 2024-11-05 at 4 10 18 PM" src="https://github.com/user-attachments/assets/ab9c5bd4-aaf8-40c0-83df-6cbac6b88eb6">
 
 
