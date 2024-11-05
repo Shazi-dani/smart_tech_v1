@@ -171,6 +171,8 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 ***Single Product Details***. 
 <img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
 
+***Quantify your Product***.
+<img width="249" alt="Screenshot 2024-11-05 at 4 10 18 PM" src="https://github.com/user-attachments/assets/ab9c5bd4-aaf8-40c0-83df-6cbac6b88eb6">
 
 
 
