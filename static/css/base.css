@@ -105,7 +105,7 @@ ul {
   top: 50px;
   left: 0;
   position: fixed;
-  background: ☐ white;
+  background:white;
   overflow: auto;
   z-index: -1;
 }
