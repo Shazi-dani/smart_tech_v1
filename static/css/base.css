@@ -44,7 +44,7 @@ html {
 #social_media_container {
   margin-left: 0px;
 }
-#social_media_logo {
+.social_media_logo {
   width: 50px;
 }
 .footer-hr {
@@ -267,11 +267,8 @@ ul {
 .nav-link {
   color: #1b365c !important;
 }
-#all-products-link {
+.all-products-link {
   color: #1b365c !important;
-}
-#all-products-link {
-  color: #1b365c;
 }
 
 /* Allauth Templates */
