@@ -63,7 +63,7 @@
         >
           <a href="{% url 'home' %}" class="nav-link main-logo-link">
             <h2 class="logo-font text-black my-0">
-              <strong>Smart</strong> Tech New
+              <strong>Smart</strong> Tech
             </h2>
           </a>
         </div>
@@ -144,8 +144,9 @@
                     <i class="fa fa-shopping-bag fa-lg"></i>
                   </div>
                   <p class="my-0">
-                    {% if grand_total %} €{{ grand_total|floatformat:2 }} {%
-                    else %} €0.00 {% endif %}
+                    {% if grand_total %} 
+                      €{{ grand_total|floatformat:2 }} 
+                      {% else %} €0.00 {% endif %}
                   </p>
                 </div>
               </a>

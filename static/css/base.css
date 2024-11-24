@@ -301,6 +301,10 @@ ul {
   color: #fff;
 }
 
+.product-page-img-section{
+  width: 300px;
+  aspect-ratio: 1/1;
+}
 
 @media screen and (min-width: 768px) {
   .signup-form {
