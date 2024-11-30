@@ -38,7 +38,6 @@ It also aims to stay updated with the latest trends in tech and mobile innovatio
 7. **Fast Shipping**: Partnering with top logistics providers to offer fast, reliable delivery options for customers, including express shipping in select regions.
 8. **Mobile-Friendly Interface**: A responsive website design optimized for mobile devices, ensuring smooth navigation and usability on smaller screens.
 
-[Go Top](#main-language-used)
    
 ## User Stories
 
@@ -104,6 +103,9 @@ It also aims to stay updated with the latest trends in tech and mobile innovatio
 
 <img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
 
+
+
+[Go Top](#main-language-used)
 
 ## Agile Planing 
 I have used MOSCOW Board as mentioned in MVP to plan my project . It really help me to onboard my project & review all the funtionality an ongoing process. I have divide Whole project in 6 Bigger Milestones. Every milestone has some user stories(as mentioned above). According to requirement I label my issues accordingly. Complete board review can be visible through link & below I have given some screens to review
