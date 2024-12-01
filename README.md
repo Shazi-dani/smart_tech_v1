@@ -142,27 +142,27 @@ I choose colors that provided are carefully chosen for branding and user experie
 
 The UX of the application emphasizes intuitive navigation and clarity in design, enabling users to perform tasks effortlessly. Interactive elements provide clear feedback to keep users informed and engaged. The layout is designed for efficiency, reducing cognitive load and enhancing task completion speed. Overall, the UX creates a seamless, user-centered experience tailored to meet the needs of its audience.Here are Wireframes of website
 
-#### Home Page
+## Home Page
 <img width="1204" alt="Screenshot 2024-10-22 at 11 33 31 AM" src="https://github.com/user-attachments/assets/dd482320-cbaf-437f-9cb6-de946f3ec391">
 
-#### Home Page Navigations
+## Home Page Navigations
 <img width="1000" alt="Screenshot 2024-10-22 at 11 39 00 AM" src="https://github.com/user-attachments/assets/09ade9bc-c87f-4a70-8bf1-3f0a475b26e1">
 
-#### Registration
+## Registration
 <img width="1000" alt="Screenshot 2024-10-22 at 11 40 57 AM" src="https://github.com/user-attachments/assets/f60e78b0-ebf6-4915-8faa-4a2be78600ae">
 
-#### Account Holder
+## Account Holder
 Account holder or the person who already have an account can log in such a way as given below in screen 
 
 <img width="968" alt="Screenshot 2024-10-23 at 2 07 38 PM" src="https://github.com/user-attachments/assets/69487e7c-824b-4284-8b8c-603273bfc2c0">
 
-#### Logout 
+## Logout 
 <img width="968" alt="Screenshot 2024-10-23 at 2 09 14 PM" src="https://github.com/user-attachments/assets/9ad66c44-cc8e-400e-a746-c1ef80b0f348">
 
-#### All Product View
+## All Product View
 <img width="1085" alt="Screenshot 2024-10-23 at 4 24 23 PM" src="https://github.com/user-attachments/assets/ccac2970-5858-4929-b3cf-b15a250133da">
 
-#### Single Product Detail
+## Single Product Detail
 <img width="1085" alt="Screenshot 2024-10-23 at 4 30 46 PM" src="https://github.com/user-attachments/assets/3680ab8d-7ac4-41db-a821-f9adf6aa5b4a">
 
 ## Home Page
