@@ -200,6 +200,11 @@ The quantity selector has three main parts:
 
 I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) in different ways.Firstly I did Lighthouse testing , Than HTML & CSS Validations. After this I have completed the Manual Testing. All the results are shown here in deatil .
 
+## HTML Validation
+
+<img width="1210" alt="Screenshot 2024-12-01 at 8 17 50 AM" src="https://github.com/user-attachments/assets/2d37bf8a-263a-42ac-b2dc-3e822d56b15f">
+
+
 
 
 
