@@ -196,6 +196,13 @@ The quantity selector has three main parts:
 - A plus button (+) on the right side to increase the quantity.
 <img width="249" alt="Screenshot 2024-11-05 at 4 10 18 PM" src="https://github.com/user-attachments/assets/ab9c5bd4-aaf8-40c0-83df-6cbac6b88eb6">
 
+## Testing  
+
+I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) in different ways.Firstly I did Lighthouse testing , Than HTML & CSS Validations. After this I have completed the Manual Testing. All the results are shown here in deatil .
+
+
+
+
 
 
 ## Technologies Used
