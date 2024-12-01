@@ -118,7 +118,13 @@ I have used MOSCOW Board as mentioned in MVP to plan my project . It really help
 
 ## Design & Typography 
 
-The fonts i used for this project were plain, simple & easy to read and look pleasant to the eye. I have used the [Font Poppins](https://fonts.google.com/specimen/Poppins) & on many palces the default font by bootstrap [bootstrap css](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) as the default typography and styling reference.
+The design of this application appears to focus on usability by providing a user-friendly interface that aligns with its core functionality. Its layout likely ensures intuitive navigation, enabling users to easily access key features and perform tasks efficiently. The interface is likely responsive, ensuring compatibility across various devices and screen sizes, which enhances its accessibility. The visual hierarchy and feedback mechanisms, such as buttons, forms, and alerts, are probably crafted to guide users seamlessly through the application, minimizing confusion and errors. Overall, the design aims to create an engaging and efficient user experience, tailored to meet the specific needs of its target audience.
+
+### Typography
+
+The fonts I have used for this project were plain, simple & easy to read and look pleasant to the eye. I have used the [Font Poppins](https://fonts.google.com/specimen/Poppins) & on many palces the default font by bootstrap [bootstrap css](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) as the default typography and styling reference.
+
+### Color Scheme
 
 I choose colors that provided are carefully chosen for branding and user experience.
 
