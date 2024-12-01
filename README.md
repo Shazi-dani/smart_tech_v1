@@ -12,6 +12,7 @@ The site can visible here
 
 <img width="242" alt="Screenshot 2024-10-23 at 9 35 59 AM" src="https://github.com/user-attachments/assets/91f4eaa3-9ed6-4b35-a597-aa7e1ce53fe0">
 
+
 ## Project Scope
 The website "Smart Tech" aims to offer a comprehensive online store for smartphones and tech accessories, focusing on delivering the latest devices from top brands like Apple, Samsung, and Vivo. It is designed to provide users with product comparisons, reviews, and buying guides to assist in making informed decisions, while ensuring a smooth shopping experience.
 
@@ -20,7 +21,7 @@ The website is designed to create an accessible online platform where users can 
 It also aims to stay updated with the latest trends in tech and mobile innovation, consistently refreshing its product catalog to feature new releases from top brands. By focusing on high-quality, user-centered design, the platform intends to build trust and provide customers with all the information needed to make confident purchasing decisions.
 
 
-**Feature Listing:**
+## **Feature Listing:**
 1. Product catalog for smartphones, tablets, and accessories.
 2. User accounts for shopping and order tracking.
 3. Reviews and buying guides for informed purchases.
