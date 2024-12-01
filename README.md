@@ -210,7 +210,8 @@ I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp
 <img width="1210" alt="Screenshot 2024-12-01 at 8 19 38 AM" src="https://github.com/user-attachments/assets/184a8509-0ffe-438d-b8c0-45bc5597651d">
 
 
-
+## Responsiveness
+My website is responsive for all the screens & machines. 
 
 
 
