@@ -140,6 +140,8 @@ I choose colors that provided are carefully chosen for branding and user experie
 
 ## User Experience ( Wirefarmes )
 
+The UX of the application emphasizes intuitive navigation and clarity in design, enabling users to perform tasks effortlessly. Interactive elements provide clear feedback to keep users informed and engaged. The layout is designed for efficiency, reducing cognitive load and enhancing task completion speed. Overall, the UX creates a seamless, user-centered experience tailored to meet the needs of its audience.Here are Wireframes of website
+
 #### Home Page
 <img width="1204" alt="Screenshot 2024-10-22 at 11 33 31 AM" src="https://github.com/user-attachments/assets/dd482320-cbaf-437f-9cb6-de946f3ec391">
 
