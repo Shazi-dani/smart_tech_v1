@@ -204,6 +204,23 @@ The quantity selector has three main parts:
 - A plus button (+) on the right side to increase the quantity.
 <img width="249" alt="Screenshot 2024-11-05 at 4 10 18 PM" src="https://github.com/user-attachments/assets/ab9c5bd4-aaf8-40c0-83df-6cbac6b88eb6">
 
+
+
+## Admin 
+
+#### Login 
+Login Page for Admin Side
+
+<img width="423" alt="Screenshot 2024-12-01 at 11 12 59 AM" src="https://github.com/user-attachments/assets/ee33678c-01c4-49d6-8d28-02384205643b">
+
+#### Home for Admin Site
+
+
+
+
+
+
+
 ## Testing  
 
 I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) in different ways.Firstly I did Lighthouse testing , Than HTML & CSS Validations. After this I have completed the Manual Testing. All the results are shown here in deatil .
