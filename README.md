@@ -104,7 +104,6 @@ It also aims to stay updated with the latest trends in tech and mobile innovatio
 <img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
 
 
-
 [Go Top](#main-language-used)
 
 ## Agile Planing 
@@ -209,11 +208,15 @@ I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp
 
 <img width="1210" alt="Screenshot 2024-12-01 at 8 19 38 AM" src="https://github.com/user-attachments/assets/184a8509-0ffe-438d-b8c0-45bc5597651d">
 
+## Light House Testing
+
 
 ## Responsiveness
 My website is responsive for all the screens & machines. 
 
+## Bugs Found in Project
 
+## 
 
 ## Technologies Used
 
@@ -233,6 +236,8 @@ My website is responsive for all the screens & machines.
 - [**Postgres**](https://www.postgresql.org/) - Postgres database was used to build and deploy external database and institute provided external database was configured.
 - [**ChatGPT**](hhttps://chatgpt.com/) - Use ChatGPT for searching new trends for website.
 - [**MDB Snippets**](https://mdbootstrap.com/snippet) - Use MDB Snippets for creating icons.
+- [**Stripe**](https://marketplace.stripe.com/apps/chargeblast?utm_term=stripe%20app&utm_campaign=App+Store+Advertising&utm_source=adwords&utm_medium=ppc&hsa_acc=3229839841&hsa_cam=21470526956&hsa_grp=162079463702&hsa_ad=705786370551&hsa_src=g&hsa_tgt=kwd-297316364765&hsa_kw=stripe%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAkwdVQRfa5ySWSWtNY6CMx0df1SYaOJrkNxII8btbX_6RlgpRowedRoCOv8QAvD_BwE) - Use Stripe for Payment integration.
+
 
 
 ## Deployment
