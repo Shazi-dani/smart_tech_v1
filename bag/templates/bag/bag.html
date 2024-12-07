@@ -39,9 +39,9 @@
             <tr class="bag-table-body-row">
               <td class="p-3 w-25">
                 {% if item.product.image %}
-                <img class="w-100 product-page-img-section bag-page-img-section" src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
+                <img class="w-100 product-page-img-section bag-page-img-section" width="100px" height="130px" src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
                 {% else %}
-                <img class="w-100 product-page-img-section bag-page-img-section" src="{{ MEDIA_URL }}noimage.png" alt="{{ item.product.name }}">
+                <img class="w-100 product-page-img-section bag-page-img-section" width="100px" height="130px" src="{{ MEDIA_URL }}noimage.png" alt="{{ item.product.name }}">
                 {% endif %}
               </td>
               <td class="py-3 w-25">
