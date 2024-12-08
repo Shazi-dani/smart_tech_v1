@@ -14,7 +14,7 @@ The site can visible here
 
 
 ## Project Scope
-The website "Smart Tech" aims to offer a comprehensive online store for smartphones and tech accessories, focusing on delivering the latest devices from top brands like Apple, Samsung, and Vivo. It is designed to provide users with product comparisons, reviews, and buying guides to assist in making informed decisions, while ensuring a smooth shopping experience.
+The website [**"Smart Tech"**](https://smart-tech-42a1ef4a43e4.herokuapp.com) aims to offer a comprehensive online store for smartphones and tech accessories, focusing on delivering the latest devices from top brands like Apple, Samsung, and Vivo. It is designed to provide users with product comparisons, reviews, and buying guides to assist in making informed decisions, while ensuring a smooth shopping experience.
 
 The website is designed to create an accessible online platform where users can browse and purchase smartphones, tablets, and related tech accessories. Its goal is to cater to both tech enthusiasts and casual shoppers by offering detailed product listings, comparisons, and personalized recommendations. The site emphasizes user-friendly navigation, secure transactions, and a seamless shopping experience with features like order tracking and responsive customer support. 
 
