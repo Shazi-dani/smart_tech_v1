@@ -222,6 +222,26 @@ Login Page for Admin Side
 ## Testing  
 
 I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) in different ways.Firstly I did Lighthouse testing , Than HTML & CSS Validations. After this I have completed the Manual Testing. All the results are shown here in deatil .
+## Light House Testing
+
+
+## HTML Validation
+ For HTML Validation I have used  this website [**https://validator.w3.org/**](https://validator.w3.org/ ) . 
+<img width="1210" alt="Screenshot 2024-12-01 at 8 17 50 AM" src="https://github.com/user-attachments/assets/2d37bf8a-263a-42ac-b2dc-3e822d56b15f">
+
+## CSS Validation
+ For CSS Validation I have used  this website [**https://jigsaw.w3.org/css-validator/**](https://jigsaw.w3.org/css-validator/ ) . 
+
+<img width="1210" alt="Screenshot 2024-12-01 at 8 19 38 AM" src="https://github.com/user-attachments/assets/184a8509-0ffe-438d-b8c0-45bc5597651d">
+
+## Responsiveness
+
+My website is responsive for all the screens & machines.
+
+
+https://github.com/user-attachments/assets/a31b7a6a-e42e-4571-a0ba-9cf541f032a7
+
+
 
 ## Manual Testing
 I have manually Testing my Website & showing Result here.
@@ -274,22 +294,7 @@ The following pop-up displays when a user add any product to his bag that is a s
 
 
 
-,,,
-
-## HTML Validation
- For HTML Validation I have used  this website [**https://validator.w3.org/**](https://validator.w3.org/ ) . 
-<img width="1210" alt="Screenshot 2024-12-01 at 8 17 50 AM" src="https://github.com/user-attachments/assets/2d37bf8a-263a-42ac-b2dc-3e822d56b15f">
-
-## CSS Validation
- For CSS Validation I have used  this website [**https://jigsaw.w3.org/css-validator/**](https://jigsaw.w3.org/css-validator/ ) . 
-
-<img width="1210" alt="Screenshot 2024-12-01 at 8 19 38 AM" src="https://github.com/user-attachments/assets/184a8509-0ffe-438d-b8c0-45bc5597651d">
-
-## Light House Testing
-
-
-## Responsiveness
-My website is responsive for all the screens & machines. 
+ 
 
 ## Bugs Found in Project
 
