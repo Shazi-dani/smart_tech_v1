@@ -266,6 +266,9 @@ Includes a copyright notice to reinforce credibility and legal protection.Mainta
 ![Order History ](https://github.com/user-attachments/assets/8f752279-bfea-489a-a0a4-f5d90ce9d02e)
 
 
+
+---------------------------------------------------------------------------------------------------------------------
+
 ## Admin Side  
 
 ## Login 
@@ -287,6 +290,7 @@ Login Page for Admin Side
 
 
 
+------------------------------------------------------------------------------------------------------------------------
 
 ## Testing  
 
@@ -307,21 +311,33 @@ I have used the chrome extention to check the resuts for lighthouse Testing
 
 
 
----------------------------------------------------------
+----------------------------------------------------------------------------
+
+
 ## HTML Validation
  For HTML Validation I have used  this website [**https://validator.w3.org/**](https://validator.w3.org/ ) . 
 <img width="1210" alt="Screenshot 2024-12-01 at 8 17 50 AM" src="https://github.com/user-attachments/assets/2d37bf8a-263a-42ac-b2dc-3e822d56b15f">
+
+----------------------------------------------------------------------------
+
 
 ## CSS Validation
  For CSS Validation I have used  this website [**https://jigsaw.w3.org/css-validator/**](https://jigsaw.w3.org/css-validator/ ) . 
 
 <img width="1210" alt="Screenshot 2024-12-01 at 8 19 38 AM" src="https://github.com/user-attachments/assets/184a8509-0ffe-438d-b8c0-45bc5597651d">
 
+----------------------------------------------------------------------------
+
+
 ## Responsiveness
 
 I have used the [**Am i Responsive**](https://ui.dev/amiresponsive) website to check via my website [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) is responsive or not for all the screens & machines. Results are in the video.
 
 https://github.com/user-attachments/assets/a31b7a6a-e42e-4571-a0ba-9cf541f032a7
+
+----------------------------------------------------------------------------
+
+
 
 ## Manual Testing
 I have manually Testing my Website & showing Result here.
@@ -381,11 +397,8 @@ The following pop-up displays when a user add any product to his bag that is a s
 
 
 
- 
+ ----------------------------------------------------------------------------
 
-## Bugs Found in Project
-
-## 
 
 ## Technologies Used
 
@@ -408,6 +421,9 @@ The following pop-up displays when a user add any product to his bag that is a s
 - [**Stripe**](https://marketplace.stripe.com/apps/chargeblast?utm_term=stripe%20app&utm_campaign=App+Store+Advertising&utm_source=adwords&utm_medium=ppc&hsa_acc=3229839841&hsa_cam=21470526956&hsa_grp=162079463702&hsa_ad=705786370551&hsa_src=g&hsa_tgt=kwd-297316364765&hsa_kw=stripe%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAkwdVQRfa5ySWSWtNY6CMx0df1SYaOJrkNxII8btbX_6RlgpRowedRoCOv8QAvD_BwE) - Use Stripe for Payment integration.
 - [**AWS**](https://aws.amazon.com/free/?gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7WH469-vCmd51svhd8ty1ILTharp8Gr6qp0jO8rSfYOGM5rn5yArkaAnjYEALw_wcB&trk=c4f45c53-585c-4b31-8fbf-d39fbcdc603a&sc_channel=ps&ef_id=Cj0KCQiAx9q6BhCDARIsACwUxu7WH469-vCmd51svhd8ty1ILTharp8Gr6qp0jO8rSfYOGM5rn5yArkaAnjYEALw_wcB:G:s&s_kwcid=AL!4422!3!637354294239!e!!g!!aws!19043613274!143453611386&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) I have used AWS to store static files like images,css files,js files
 - [**Erasor**](http://erasor.io/) I have used this to generate the ERD for my website   
+
+
+----------------------------------------------------------------------------
 
 ## Deployment
 To ensure users are able to view live version of "Smart Tech" project.
