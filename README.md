@@ -248,7 +248,14 @@ Encourages interaction and builds community presence through social media.
 Includes a copyright notice to reinforce credibility and legal protection.Maintains a clean, minimalistic structure for a professional look.
 <img width="1275" alt="Screenshot 2024-12-09 at 5 36 41 PM" src="https://github.com/user-attachments/assets/7b4230ba-4e2d-4580-a6a1-c504e9039c04">
 
+## FAQ
+<img width="1275" alt="Screenshot 2024-12-09 at 5 36 55 PM" src="https://github.com/user-attachments/assets/360538b9-69ce-4d70-85a3-9b5b242106d5">
 
+## News Alerts
+<img width="1275" alt="Screenshot 2024-12-09 at 5 37 12 PM" src="https://github.com/user-attachments/assets/adfbd772-2f23-4457-b4f7-8d951c646532">
+
+## Contact Form
+<img width="386" alt="Screenshot 2024-12-09 at 5 37 28 PM" src="https://github.com/user-attachments/assets/01950586-cd7f-4aea-85c2-3baee9c2ddbe">
 
 
 ## Admin Side  
