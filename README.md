@@ -226,7 +226,7 @@ I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp
 ## Manual Testing
 I have manually Testing my Website & showing Result here.
 
-## Home Page Nav. Bar
+#### Home Page Nav. Bar
 
 This is the old picture of Navigation BAR where I need to add Refurbish phones . While doing Testing I feel this change is necessary. Also the Named Logo of website need some changes.
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
@@ -235,7 +235,7 @@ I add refurbished phone details in Smartt Tech. So that a user can buy refurbish
 
 <img width="1280" alt="Screenshot 2024-12-09 at 8 45 35 AM" src="https://github.com/user-attachments/assets/cec78041-a96e-4d04-b2e9-f5d6ce4afaeb">
 
-## Nav. Bar Functionality
+#### Nav. Bar Functionality
 By clicking on any of the input given in the Nav. Bar , User proceed to to his concern Point or Page 
 
 
@@ -244,6 +244,13 @@ https://github.com/user-attachments/assets/486ba1df-871a-4003-a4e4-1801da8b8bc4
 ## View Product deatils
 By clickin on the product user proceed to the sigle Product Deatiled View . Where any user can see The product name, description, Ratings, Price, colour & Quantify selection. Also image of the product is visible. Here are also two buttons of keep shopping and add to bag. 
 <img width="1271" alt="Screenshot 2024-12-09 at 3 38 37 PM" src="https://github.com/user-attachments/assets/e512d9d0-0884-43f0-aeb6-9dfccc7908ce">
+
+## Add to Bag
+By clicking on add to bag the product add to your Cart. 
+<img width="1271" alt="Screenshot 2024-12-09 at 3 38 47 PM" src="https://github.com/user-attachments/assets/26051900-3e01-48bd-ad8d-43faf0329489">
+
+The following pop-up displays when a user add any product to his bag that is a short view of this product 
+<img width="333" alt="Screenshot 2024-12-09 at 3 39 02 PM" src="https://github.com/user-attachments/assets/79ce9f20-aca9-42b0-b87b-eade6daa842a">
 
 
 
