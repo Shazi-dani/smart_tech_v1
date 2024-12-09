@@ -311,6 +311,10 @@ Login Page for Admin Side
 ## Orders Detail
 <img width="1264" alt="Screenshot 2024-12-01 at 11 09 35 AM" src="https://github.com/user-attachments/assets/fb61ba73-f098-4dfd-a820-3aac7e7059a4">
 
+## Product Management 
+
+<img width="1223" alt="Screenshot 2024-12-09 at 6 44 56 PM" src="https://github.com/user-attachments/assets/b80709d1-0fc9-4cbd-924e-0260fef80040">
+<img width="1223" alt="Screenshot 2024-12-09 at 6 45 07 PM" src="https://github.com/user-attachments/assets/be9124f5-0c38-47f2-a0b0-ff8fc5178a8a">
 
 
 ------------------------------------------------------------------------------------------------------------------------
