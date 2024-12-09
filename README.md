@@ -103,7 +103,7 @@ I have used MOSCOW Board as mentioned in MVP to plan my project . It really help
 
 [Smart Tech MOSCOW Agile Board](https://github.com/users/Shazi-dani/projects/7)
 <img width="1280" alt="Screenshot 2024-10-23 at 8 47 25 AM" src="https://github.com/user-attachments/assets/906f3c5f-2cf6-44a2-b899-33276d47f2f3">
-#### Lables & Milestones
+## Lables & Milestones
 <img width="118" alt="Screenshot 2024-10-23 at 12 42 05 PM" src="https://github.com/user-attachments/assets/b4c95538-c8b3-4ba2-b49e-e6093dfbd95f">
 <img width="619" alt="Screenshot 2024-10-23 at 12 41 16 PM" src="https://github.com/user-attachments/assets/04e67cfe-d525-41d5-a82e-3fa9fa5a9a31">
 
@@ -166,16 +166,15 @@ Account holder or the person who already have an account can log in such a way a
 
 ## Home Page Navigations
 
-#### Home Page Nav
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
 
-#### Mobile Home Page Navigation 
+## Mobile Home Page Navigation 
 
 When ever we open a Smart Tech Link on small screens or on a mobile device following pattern will be displayed on our screens.As given below here in the picture
 
 <img width="521" alt="Screenshot 2024-10-25 at 7 05 39 AM" src="https://github.com/user-attachments/assets/bf1e1834-cdaf-4d5b-86cd-0f5b307ecf75">
 
-#### Mobile Home Page Navigation Action 
+## Mobile Home Page Navigation Action 
 
 <img width="521" alt="Screenshot 2024-10-25 at 7 05 46 AM" src="https://github.com/user-attachments/assets/07965796-3b03-4276-a9cf-6f58876e8dcd">
 
@@ -183,7 +182,7 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 
 <img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
 
-#### Single Product Details 
+## Single Product Details 
 <img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
 
 ## View Bag
@@ -204,8 +203,7 @@ I have add Filters so that a user can easily search his concern product by selec
 ## Quantify your Product
 
 The "Quantify Product" button on your website is a user-friendly component designed to help customers select the desired quantity of a product with ease. This button typically consists of a plus (+) and minus (-) sign surrounding a number field. By clicking the plus or minus buttons, users can increase or decrease the quantity in increments, often by one unit. This setup provides a quick, interactive way for users to adjust the number of items without needing to type or navigate complex dropdown menus, enhancing the overall shopping experience. For added convenience, some designs allow users to type a quantity directly into the field if they need a specific number that might be quicker to type.
-
-**Component Layout:**
+- **Component Layout:**
 The quantity selector has three main parts:
 - A minus button (-) on the left side to decrease the quantity.
 - A number field in the center to display the current quantity. This can sometimes be editable, allowing users to type in a number directly.
@@ -260,21 +258,23 @@ Includes a copyright notice to reinforce credibility and legal protection.Mainta
 
 ## Admin Side  
 
-#### Login 
+## Login 
 Login Page for Admin Side
 
 <img width="423" alt="Screenshot 2024-12-01 at 11 12 59 AM" src="https://github.com/user-attachments/assets/ee33678c-01c4-49d6-8d28-02384205643b">
 
-#### Home for Admin Site
+## Home for Admin Site
 <img width="1264" alt="Screenshot 2024-12-01 at 11 08 20 AM" src="https://github.com/user-attachments/assets/d456073d-021c-47ac-9209-faf8426ffb29">
 
-#### Product Deatail / Product change
+## Product Deatail / Product change
 <img width="1264" alt="Screenshot 2024-12-01 at 11 10 12 AM" src="https://github.com/user-attachments/assets/b925ebe6-8c97-4f61-b980-360d424242d7">
 
-#### Select User to Change 
+## Select User to Change 
 <img width="1264" alt="Screenshot 2024-12-01 at 11 09 17 AM" src="https://github.com/user-attachments/assets/1dcb2a2e-75e0-4f74-afe8-3e815c1ffa7a">
 
-#### 
+## Orders Detail
+<img width="1264" alt="Screenshot 2024-12-01 at 11 09 35 AM" src="https://github.com/user-attachments/assets/fb61ba73-f098-4dfd-a820-3aac7e7059a4">
+
 
 
 
