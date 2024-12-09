@@ -166,25 +166,25 @@ Account holder or the person who already have an account can log in such a way a
 
 ## Home Page Navigations
 
-#### ***Home Page Nav***
+#### Home Page Nav
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
 
-#### ***Mobile Home Page Navigation***. 
+#### Mobile Home Page Navigation 
 
 When ever we open a Smart Tech Link on small screens or on a mobile device following pattern will be displayed on our screens.As given below here in the picture
 
 <img width="521" alt="Screenshot 2024-10-25 at 7 05 39 AM" src="https://github.com/user-attachments/assets/bf1e1834-cdaf-4d5b-86cd-0f5b307ecf75">
 
-#### ***Mobile Home Page Navigation Action***. 
+#### Mobile Home Page Navigation Action 
 
 <img width="521" alt="Screenshot 2024-10-25 at 7 05 46 AM" src="https://github.com/user-attachments/assets/07965796-3b03-4276-a9cf-6f58876e8dcd">
-
-#### ***Single Product Details***. 
-<img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
 
 ## About Us
 
 <img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
+
+#### Single Product Details 
+<img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
 
 ## View Bag
 <img width="1275" alt="Screenshot 2024-12-09 at 3 39 35 PM" src="https://github.com/user-attachments/assets/d243767d-5242-4441-ad6b-94aa22f22049">
@@ -223,6 +223,9 @@ When you Logout this displays
 .
 <img width="176" alt="Screenshot 2024-12-09 at 3 16 58 PM" src="https://github.com/user-attachments/assets/035fcfb7-b75b-44e2-8737-318c047bfc34">
 
+
+## Website Footer
+<img width="1275" alt="Screenshot 2024-12-09 at 5 36 41 PM" src="https://github.com/user-attachments/assets/7b4230ba-4e2d-4580-a6a1-c504e9039c04">
 
 
 
