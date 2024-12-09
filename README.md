@@ -266,10 +266,15 @@ Login Page for Admin Side
 <img width="423" alt="Screenshot 2024-12-01 at 11 12 59 AM" src="https://github.com/user-attachments/assets/ee33678c-01c4-49d6-8d28-02384205643b">
 
 #### Home for Admin Site
+<img width="1264" alt="Screenshot 2024-12-01 at 11 08 20 AM" src="https://github.com/user-attachments/assets/d456073d-021c-47ac-9209-faf8426ffb29">
 
+#### Product Deatail / Product change
+<img width="1264" alt="Screenshot 2024-12-01 at 11 10 12 AM" src="https://github.com/user-attachments/assets/b925ebe6-8c97-4f61-b980-360d424242d7">
 
+#### Select User to Change 
+<img width="1264" alt="Screenshot 2024-12-01 at 11 09 17 AM" src="https://github.com/user-attachments/assets/1dcb2a2e-75e0-4f74-afe8-3e815c1ffa7a">
 
-
+#### 
 
 
 
