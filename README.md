@@ -240,6 +240,11 @@ I add refurbished phone details in Smartt Tech. So that a user can buy refurbish
 By clicking on any of the input given in the Nav. Bar , User proceed to to his concern Point or Page 
 
 
+https://github.com/user-attachments/assets/486ba1df-871a-4003-a4e4-1801da8b8bc4
+
+
+
+
 ## About Us
 
 <img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
