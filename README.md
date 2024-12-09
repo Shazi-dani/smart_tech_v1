@@ -161,7 +161,16 @@ Account holder or the person who already have an account can log in such a way a
 
 ## Project Features 
 
-#### Home Page
+## Registeration Form / Sign up 
+
+<img width="1202" alt="Screenshot 2024-12-09 at 7 55 13 PM" src="https://github.com/user-attachments/assets/25ac1104-5a76-4c4f-ba38-3d4515687895">
+
+
+## Sign in 
+<img width="1233" alt="Screenshot 2024-12-09 at 4 55 14 PM" src="https://github.com/user-attachments/assets/f69a3274-22d3-4f73-9dc2-37c0c07587fa">
+
+
+## Home Page
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 37 AM" src="https://github.com/user-attachments/assets/47126e1f-bde2-4501-b81e-1e5b0e560dfd">
 
 ## Home Page Navigations
@@ -232,7 +241,7 @@ When you Logout this displays
 
 After completion of an order this Pop-up will show
 .
-![Uploading Screenshot 2024-12-09 at 6.39.49 PM.png…]()
+<img width="335" alt="Screenshot 2024-12-09 at 6 39 49 PM" src="https://github.com/user-attachments/assets/b9e09b79-47a6-4619-8783-8fd7a5469154">
 
 
 
