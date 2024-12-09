@@ -182,6 +182,11 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 
 <img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
 
+## Product Listing Page 
+
+<img width="1223" alt="Screenshot 2024-12-09 at 7 43 19 PM" src="https://github.com/user-attachments/assets/7f67cff7-0685-4e2b-ae95-bd6c40222083">
+
+
 ## Single Product Details 
 <img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
 
