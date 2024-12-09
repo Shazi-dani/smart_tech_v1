@@ -255,6 +255,15 @@ Includes a copyright notice to reinforce credibility and legal protection.Mainta
 ## Contact Form
 <img width="386" alt="Screenshot 2024-12-09 at 5 37 28 PM" src="https://github.com/user-attachments/assets/01950586-cd7f-4aea-85c2-3baee9c2ddbe">
 
+## User Profile
+<img width="1223" alt="Screenshot 2024-12-09 at 7 24 57 PM" src="https://github.com/user-attachments/assets/c994fc36-97ce-4dea-828d-37c953d69dd1">
+
+## Order Completion 
+<img width="718" alt="Screenshot 2024-12-09 at 6 40 23 PM" src="https://github.com/user-attachments/assets/59e8108d-eb1a-4ef3-b6c9-9b346ef6aeb6">
+
+## Order History
+
+![Order History ](https://github.com/user-attachments/assets/8f752279-bfea-489a-a0a4-f5d90ce9d02e)
 
 
 ## Admin Side  
