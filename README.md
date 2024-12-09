@@ -193,6 +193,9 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 
 The "Quantify Product" button on your website is a user-friendly component designed to help customers select the desired quantity of a product with ease. This button typically consists of a plus (+) and minus (-) sign surrounding a number field. By clicking the plus or minus buttons, users can increase or decrease the quantity in increments, often by one unit. This setup provides a quick, interactive way for users to adjust the number of items without needing to type or navigate complex dropdown menus, enhancing the overall shopping experience. For added convenience, some designs allow users to type a quantity directly into the field if they need a specific number that might be quicker to type.
 
+## Error Pages 
+#### 505 
+<img width="1200" alt="Screenshot 2024-12-09 at 9 21 20 AM" src="https://github.com/user-attachments/assets/3eb9f078-eb08-48ae-8c1e-e7bf0fc9945a">
 
 **Component Layout:**
 
