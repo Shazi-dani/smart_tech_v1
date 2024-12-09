@@ -236,8 +236,7 @@ I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp
 
 ## Responsiveness
 
-My website is responsive for all the screens & machines.
-
+I have used the [**Am i Responsive**](https://ui.dev/amiresponsive) website to check via my website [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) is responsive or not for all the screens & machines. Results are in the video.
 
 https://github.com/user-attachments/assets/a31b7a6a-e42e-4571-a0ba-9cf541f032a7
 
