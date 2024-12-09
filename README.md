@@ -157,15 +157,17 @@ Account holder or the person who already have an account can log in such a way a
 ## Single Product Detail
 <img width="1085" alt="Screenshot 2024-10-23 at 4 30 46 PM" src="https://github.com/user-attachments/assets/3680ab8d-7ac4-41db-a821-f9adf6aa5b4a">
 
-## Home Page
-<img width="1280" alt="Screenshot 2024-10-25 at 7 02 37 AM" src="https://github.com/user-attachments/assets/47126e1f-bde2-4501-b81e-1e5b0e560dfd">
 
+
+## Project Features 
+
+#### Home Page
+<img width="1280" alt="Screenshot 2024-10-25 at 7 02 37 AM" src="https://github.com/user-attachments/assets/47126e1f-bde2-4501-b81e-1e5b0e560dfd">
 
 ## Home Page Navigations
 
 #### ***Home Page Nav***
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
-
 
 #### ***Mobile Home Page Navigation***. 
 
@@ -210,6 +212,16 @@ The quantity selector has three main parts:
 - A plus button (+) on the right side to increase the quantity.
 <img width="249" alt="Screenshot 2024-11-05 at 4 10 18 PM" src="https://github.com/user-attachments/assets/ab9c5bd4-aaf8-40c0-83df-6cbac6b88eb6">
 
+## Pop-ups / Notification Alerts
+Here are some pop-up messages and notification alerts that are visualised during website usage 
+
+When you Login this message shows with your user name you ahve provided while registeration
+.
+<img width="246" alt="Screenshot 2024-12-09 at 5 16 00 PM" src="https://github.com/user-attachments/assets/1d59e0d6-f52e-4530-bc60-4549ba92fabb">
+
+When you Logout this displays 
+.
+<img width="176" alt="Screenshot 2024-12-09 at 3 16 58 PM" src="https://github.com/user-attachments/assets/035fcfb7-b75b-44e2-8737-318c047bfc34">
 
 
 
