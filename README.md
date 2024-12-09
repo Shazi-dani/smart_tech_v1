@@ -94,16 +94,8 @@ It also aims to stay updated with the latest trends in tech and mobile innovatio
 
 
 ##  Entity Relationship Diagram (ERD)
-### ERD Structure:
-- **User (Authentication)**: To manage user credentials (username, email, password).
-- **UserProfile**: Holds customer-specific information such as full name, addresses, and phone number.
-- **Category**: Categorizes products, now with fields like `name` and `friendly_name`.
-- **Product**: Includes SKU, stock, price, image URL, and rating fields.
-- **Order**: Contains information related to orders, including delivery cost, user profile link, and a payment identifier (e.g., Stripe PID).
-- **OrderLineItem**: Tracks product quantities and total cost for each item in the order.
-- **ContactForm**: Manages customer inquiries or messages.
 
-<img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
+![ERD Smart Tech](https://github.com/user-attachments/assets/9569a7b5-f4c9-42d1-bb08-6e3ab9fc516e)
 
 
 ## Agile Planing 
