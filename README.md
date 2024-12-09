@@ -238,7 +238,6 @@ I add refurbished phone details in Smartt Tech. So that a user can buy refurbish
 #### Nav. Bar Functionality
 By clicking on any of the input given in the Nav. Bar , User proceed to to his concern Point or Page 
 
-
 https://github.com/user-attachments/assets/486ba1df-871a-4003-a4e4-1801da8b8bc4
 
 ## View Product deatils
@@ -252,9 +251,19 @@ By clicking on add to bag the product add to your Cart.
 The following pop-up displays when a user add any product to his bag that is a short view of this product 
 <img width="333" alt="Screenshot 2024-12-09 at 3 39 02 PM" src="https://github.com/user-attachments/assets/79ce9f20-aca9-42b0-b87b-eade6daa842a">
 
+## View Bag
+<img width="1275" alt="Screenshot 2024-12-09 at 3 39 35 PM" src="https://github.com/user-attachments/assets/d243767d-5242-4441-ad6b-94aa22f22049">
+
+## Secure Checkouts
+
+<img width="1275" alt="Screenshot 2024-12-09 at 3 39 58 PM" src="https://github.com/user-attachments/assets/dd0923cb-6f3d-45cd-9b20-8298ac8b682c">
+
+## Payment details 
 
 
-## Error Pages 
+
+
+## 404, 505 Pages 
 #### 505 
 <img width="1200" alt="Screenshot 2024-12-09 at 9 21 20 AM" src="https://github.com/user-attachments/assets/3eb9f078-eb08-48ae-8c1e-e7bf0fc9945a">
 
@@ -305,7 +314,7 @@ My website is responsive for all the screens & machines.
 - [**ChatGPT**](hhttps://chatgpt.com/) - Use ChatGPT for searching new trends for website.
 - [**MDB Snippets**](https://mdbootstrap.com/snippet) - Use MDB Snippets for creating icons.
 - [**Stripe**](https://marketplace.stripe.com/apps/chargeblast?utm_term=stripe%20app&utm_campaign=App+Store+Advertising&utm_source=adwords&utm_medium=ppc&hsa_acc=3229839841&hsa_cam=21470526956&hsa_grp=162079463702&hsa_ad=705786370551&hsa_src=g&hsa_tgt=kwd-297316364765&hsa_kw=stripe%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAkwdVQRfa5ySWSWtNY6CMx0df1SYaOJrkNxII8btbX_6RlgpRowedRoCOv8QAvD_BwE) - Use Stripe for Payment integration.
-- [**Amazon**](https://
+- [**Amazon**](https://aws.amazon.com/free/?gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7WH469-vCmd51svhd8ty1ILTharp8Gr6qp0jO8rSfYOGM5rn5yArkaAnjYEALw_wcB&trk=c4f45c53-585c-4b31-8fbf-d39fbcdc603a&sc_channel=ps&ef_id=Cj0KCQiAx9q6BhCDARIsACwUxu7WH469-vCmd51svhd8ty1ILTharp8Gr6qp0jO8rSfYOGM5rn5yArkaAnjYEALw_wcB:G:s&s_kwcid=AL!4422!3!637354294239!e!!g!!aws!19043613274!143453611386&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
 
 ## Deployment
