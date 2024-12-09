@@ -5,16 +5,41 @@
     <title>Page Not Found</title>
   </head>
   <body>
-    <h1>404 - Page Not Found</h1>
-    <p>Sorry, the page you are looking for does not exist.</p>
-    <a
-      href="{% url 'home' %}"
-      class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn px-4"
+    <div
+      class="error-404-main-container"
+      style="
+        background-color: rgb(196, 217, 234);
+        width: 400px;
+        height: 400px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+      "
     >
-      <span class="icon keep-shopping-icon">
-        <i class="fas fa-chevron-left"></i>
-      </span>
-      <span class="text-uppercase keep-shopping-text">Return to Home</span>
-    </a>
+      <h1>404 - Page Not Found</h1>
+      <p>Sorry, the page you are looking for does not exist.</p>
+      <a
+        href="{% url 'home' %}"
+        class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn px-4"
+        style="
+          width: 120px;
+          height: 40px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          text-decoration: none;
+          background-color: rgb(1, 1, 36);
+        "
+      >
+        <span class="icon keep-shopping-icon">
+          <i class="fas fa-chevron-left"></i>
+        </span>
+        <span class="text-uppercase keep-shopping-text" style="color: #fff"
+          >Return to Home</span
+        >
+      </a>
+    </div>
   </body>
 </html>

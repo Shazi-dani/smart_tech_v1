@@ -5,18 +5,32 @@
     <title>Service Unavailable</title>
   </head>
   <body>
-    <h1>503 - Service Unavailable</h1>
-    <p>
-      Sorry, the service is temporarily unavailable. Please try again later.
-    </p>
-    <a
-      href="{% url 'home' %}"
-      class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn px-4"
+    <div
+      class="error-404-main-container"
+      style="
+        background-color: rgb(196, 217, 234);
+        width: 400px;
+        height: 400px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+      "
     >
-      <span class="icon keep-shopping-icon">
-        <i class="fas fa-chevron-left"></i>
-      </span>
-      <span class="text-uppercase keep-shopping-text">Return to Home</span>
-    </a>
+      <h1>503 - Service Unavailable</h1>
+      <p>
+        Sorry, the service is temporarily unavailable. Please try again later.
+      </p>
+      <a
+        href="{% url 'home' %}"
+        class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn px-4"
+      >
+        <span class="icon keep-shopping-icon">
+          <i class="fas fa-chevron-left"></i>
+        </span>
+        <span class="text-uppercase keep-shopping-text">Return to Home</span>
+      </a>
+    </div>
   </body>
 </html>

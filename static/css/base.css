@@ -339,6 +339,13 @@ ul {
   background-color: #dc3545;
 }
 
+.error-404-main-container{
+  width: 400px;
+  height: 400px;
+  background-color: #8bb8e8;
+  margin: auto;
+}
+
 @media screen and (min-width: 768px) {
   .signup-form {
     width: 520px;
