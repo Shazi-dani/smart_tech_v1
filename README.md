@@ -197,8 +197,12 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 
 <img width="1275" alt="Screenshot 2024-12-09 at 3 39 58 PM" src="https://github.com/user-attachments/assets/dd0923cb-6f3d-45cd-9b20-8298ac8b682c">
 
+## Countries Listing in Order Process 
+<img width="908" alt="Screenshot 2024-12-09 at 6 34 52 PM" src="https://github.com/user-attachments/assets/3127ac1f-1f5e-4ec5-abe3-09fb6d693dd2">
+
 ## Payment details 
 <img width="567" alt="Screenshot 2024-12-09 at 3 40 29 PM" src="https://github.com/user-attachments/assets/1743bc4b-5f3d-423f-9207-7a560605be50">
+
 
 ## Filter/ Search by Sorting 
 I have add Filters so that a user can easily search his concern product by selecting or sorting the deatils. 
@@ -225,6 +229,11 @@ When you Login this message shows with your user name you ahve provided while re
 When you Logout this displays 
 .
 <img width="176" alt="Screenshot 2024-12-09 at 3 16 58 PM" src="https://github.com/user-attachments/assets/035fcfb7-b75b-44e2-8737-318c047bfc34">
+
+After completion of an order this Pop-up will show
+.
+![Uploading Screenshot 2024-12-09 at 6.39.49 PM.png…]()
+
 
 
 ## Website Footer
