@@ -106,8 +106,6 @@ It also aims to stay updated with the latest trends in tech and mobile innovatio
 <img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
 
 
-[Go Top](#main-language-used)
-
 ## Agile Planing 
 I have used MOSCOW Board as mentioned in MVP to plan my project . It really help me to onboard my project & review all the funtionality an ongoing process. I have divide Whole project in 6 Bigger Milestones. Every milestone has some user stories(as mentioned above). According to requirement I label my issues accordingly. Complete board review can be visible through link & below I have given some screens to review
 
@@ -226,6 +224,21 @@ Login Page for Admin Side
 
 I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) in different ways.Firstly I did Lighthouse testing , Than HTML & CSS Validations. After this I have completed the Manual Testing. All the results are shown here in deatil .
 
+## Manual Testing
+I have manually Testing my Website & showing Result here.
+
+***Home Page Nav***
+This is the old picture of Navigation BAR where I need to add Refurbish phones . While doing Testing I feel this change is necessary. Also the Named Logo of website need some changes.
+<img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
+
+I add refurbished phone details in Smartt Tech. So that a user can buy refurbished Phone easily. I have changes the Named Logo Smart Tech new to " **Smart** Tech".
+
+<img width="1280" alt="Screenshot 2024-12-09 at 8 45 35 AM" src="https://github.com/user-attachments/assets/cec78041-a96e-4d04-b2e9-f5d6ce4afaeb">
+
+
+
+,,,
+
 ## HTML Validation
  For HTML Validation I have used  this website [**https://validator.w3.org/**](https://validator.w3.org/ ) . 
 <img width="1210" alt="Screenshot 2024-12-01 at 8 17 50 AM" src="https://github.com/user-attachments/assets/2d37bf8a-263a-42ac-b2dc-3e822d56b15f">
@@ -264,11 +277,11 @@ My website is responsive for all the screens & machines.
 - [**ChatGPT**](hhttps://chatgpt.com/) - Use ChatGPT for searching new trends for website.
 - [**MDB Snippets**](https://mdbootstrap.com/snippet) - Use MDB Snippets for creating icons.
 - [**Stripe**](https://marketplace.stripe.com/apps/chargeblast?utm_term=stripe%20app&utm_campaign=App+Store+Advertising&utm_source=adwords&utm_medium=ppc&hsa_acc=3229839841&hsa_cam=21470526956&hsa_grp=162079463702&hsa_ad=705786370551&hsa_src=g&hsa_tgt=kwd-297316364765&hsa_kw=stripe%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAkwdVQRfa5ySWSWtNY6CMx0df1SYaOJrkNxII8btbX_6RlgpRowedRoCOv8QAvD_BwE) - Use Stripe for Payment integration.
-
+- [**Amazon**](https://
 
 
 ## Deployment
-To ensure users are able to view live version of "DT Autos garage" project.
+To ensure users are able to view live version of "Smart Tech" project.
 
 I followed the following steps:
 
