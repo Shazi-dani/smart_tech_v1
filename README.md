@@ -227,13 +227,22 @@ I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp
 ## Manual Testing
 I have manually Testing my Website & showing Result here.
 
-***Home Page Nav***
+## Home Page Nav. Bar
+
 This is the old picture of Navigation BAR where I need to add Refurbish phones . While doing Testing I feel this change is necessary. Also the Named Logo of website need some changes.
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
 
 I add refurbished phone details in Smartt Tech. So that a user can buy refurbished Phone easily. I have changes the Named Logo Smart Tech new to " **Smart** Tech".
 
 <img width="1280" alt="Screenshot 2024-12-09 at 8 45 35 AM" src="https://github.com/user-attachments/assets/cec78041-a96e-4d04-b2e9-f5d6ce4afaeb">
+
+## Nav. Bar Functionality
+By clicking on any of the input given in the Nav. Bar , User proceed to to his concern Point or Page 
+
+
+## About Us
+
+<img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
 
 
 
