@@ -286,6 +286,12 @@ I have used the chrome extention to check the resuts for lighthouse Testing
 ## Home page Results 
 <img width="908" alt="Screenshot 2024-12-09 at 6 08 16 PM" src="https://github.com/user-attachments/assets/24ea2a42-8cbf-4736-9503-89afeb3f4e50">
 
+## All Product Listing Page
+<img width="908" alt="Screenshot 2024-12-09 at 6 10 12 PM" src="https://github.com/user-attachments/assets/e916e4d5-30cb-415b-b156-e14e8f1016a9">
+
+## Single Product Detailed Page 
+<img width="908" alt="Screenshot 2024-12-09 at 6 14 00 PM" src="https://github.com/user-attachments/assets/28c53efb-a837-4f38-8272-a373a3d3f8df">
+
 
 ## HTML Validation
  For HTML Validation I have used  this website [**https://validator.w3.org/**](https://validator.w3.org/ ) . 
