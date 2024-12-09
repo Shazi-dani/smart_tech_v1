@@ -292,7 +292,12 @@ I have used the chrome extention to check the resuts for lighthouse Testing
 ## Single Product Detailed Page 
 <img width="908" alt="Screenshot 2024-12-09 at 6 14 00 PM" src="https://github.com/user-attachments/assets/28c53efb-a837-4f38-8272-a373a3d3f8df">
 
+## Bag page Results 
+<img width="908" alt="Screenshot 2024-12-09 at 6 22 25 PM" src="https://github.com/user-attachments/assets/d187068f-811b-45a0-8699-e266246b0de7">
 
+
+
+---------------------------------------------------------
 ## HTML Validation
  For HTML Validation I have used  this website [**https://validator.w3.org/**](https://validator.w3.org/ ) . 
 <img width="1210" alt="Screenshot 2024-12-01 at 8 17 50 AM" src="https://github.com/user-attachments/assets/2d37bf8a-263a-42ac-b2dc-3e822d56b15f">
