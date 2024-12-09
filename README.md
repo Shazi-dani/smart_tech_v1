@@ -282,6 +282,9 @@ Login Page for Admin Side
 
 I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) in different ways.Firstly I did Lighthouse testing , Than HTML & CSS Validations. After this I have completed the Manual Testing. All the results are shown here in deatil .
 ## Light House Testing
+I have used the chrome extention to check the resuts for lighthouse Testing
+## Home page Results 
+<img width="908" alt="Screenshot 2024-12-09 at 6 08 16 PM" src="https://github.com/user-attachments/assets/24ea2a42-8cbf-4736-9503-89afeb3f4e50">
 
 
 ## HTML Validation
