@@ -163,31 +163,47 @@ Account holder or the person who already have an account can log in such a way a
 
 ## Home Page Navigations
 
-***Home Page Nav***
+#### ***Home Page Nav***
 <img width="1280" alt="Screenshot 2024-10-25 at 7 02 57 AM" src="https://github.com/user-attachments/assets/81f15a5e-11f7-4a74-a12c-883bf8215d73">
 
 
-***Mobile Home Page Navigation***. 
+#### ***Mobile Home Page Navigation***. 
 
 When ever we open a Smart Tech Link on small screens or on a mobile device following pattern will be displayed on our screens.As given below here in the picture
 
 <img width="521" alt="Screenshot 2024-10-25 at 7 05 39 AM" src="https://github.com/user-attachments/assets/bf1e1834-cdaf-4d5b-86cd-0f5b307ecf75">
 
-***Mobile Home Page Navigation Action***. 
+#### ***Mobile Home Page Navigation Action***. 
 
 <img width="521" alt="Screenshot 2024-10-25 at 7 05 46 AM" src="https://github.com/user-attachments/assets/07965796-3b03-4276-a9cf-6f58876e8dcd">
 
-***Single Product Details***. 
+#### ***Single Product Details***. 
 <img width="1272" alt="Screenshot 2024-11-05 at 4 06 54 PM" src="https://github.com/user-attachments/assets/855c3bdc-52bb-419f-a4e0-a6affb4f9617">
 
+## About Us
+
+<img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
+
+## View Bag
+<img width="1275" alt="Screenshot 2024-12-09 at 3 39 35 PM" src="https://github.com/user-attachments/assets/d243767d-5242-4441-ad6b-94aa22f22049">
+
+## Secure Checkouts
+
+<img width="1275" alt="Screenshot 2024-12-09 at 3 39 58 PM" src="https://github.com/user-attachments/assets/dd0923cb-6f3d-45cd-9b20-8298ac8b682c">
+
+## Payment details 
+<img width="567" alt="Screenshot 2024-12-09 at 3 40 29 PM" src="https://github.com/user-attachments/assets/1743bc4b-5f3d-423f-9207-7a560605be50">
+
+## Filter/ Search by Sorting 
+I have add Filters so that a user can easily search his concern product by selecting or sorting the deatils. 
+
+<img width="1233" alt="Screenshot 2024-12-09 at 4 57 02 PM" src="https://github.com/user-attachments/assets/d89a8a5d-c81b-4ce0-9569-0b71734d8576">
 
 ## Quantify your Product
 
 The "Quantify Product" button on your website is a user-friendly component designed to help customers select the desired quantity of a product with ease. This button typically consists of a plus (+) and minus (-) sign surrounding a number field. By clicking the plus or minus buttons, users can increase or decrease the quantity in increments, often by one unit. This setup provides a quick, interactive way for users to adjust the number of items without needing to type or navigate complex dropdown menus, enhancing the overall shopping experience. For added convenience, some designs allow users to type a quantity directly into the field if they need a specific number that might be quicker to type.
 
 **Component Layout:**
-
-
 The quantity selector has three main parts:
 - A minus button (-) on the left side to decrease the quantity.
 - A number field in the center to display the current quantity. This can sometimes be editable, allowing users to type in a number directly.
@@ -196,7 +212,10 @@ The quantity selector has three main parts:
 
 
 
-## Admin 
+
+
+
+## Admin Side  
 
 #### Login 
 Login Page for Admin Side
@@ -231,8 +250,6 @@ I have test my webite [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp
 I have used the [**Am i Responsive**](https://ui.dev/amiresponsive) website to check via my website [**Smart Tech**](https://smart-tech-42a1ef4a43e4.herokuapp.com) is responsive or not for all the screens & machines. Results are in the video.
 
 https://github.com/user-attachments/assets/a31b7a6a-e42e-4571-a0ba-9cf541f032a7
-
-
 
 ## Manual Testing
 I have manually Testing my Website & showing Result here.
@@ -270,7 +287,10 @@ The following pop-up displays when a user add any product to his bag that is a s
 <img width="1275" alt="Screenshot 2024-12-09 at 3 39 58 PM" src="https://github.com/user-attachments/assets/dd0923cb-6f3d-45cd-9b20-8298ac8b682c">
 
 ## Payment details 
+<img width="567" alt="Screenshot 2024-12-09 at 3 40 29 PM" src="https://github.com/user-attachments/assets/1743bc4b-5f3d-423f-9207-7a560605be50">
 
+## Filter/ Search by Sorting 
+<img width="1233" alt="Screenshot 2024-12-09 at 4 57 02 PM" src="https://github.com/user-attachments/assets/d89a8a5d-c81b-4ce0-9569-0b71734d8576">
 
 
 
@@ -311,7 +331,7 @@ The following pop-up displays when a user add any product to his bag that is a s
 - [**MDB Snippets**](https://mdbootstrap.com/snippet) - Use MDB Snippets for creating icons.
 - [**Stripe**](https://marketplace.stripe.com/apps/chargeblast?utm_term=stripe%20app&utm_campaign=App+Store+Advertising&utm_source=adwords&utm_medium=ppc&hsa_acc=3229839841&hsa_cam=21470526956&hsa_grp=162079463702&hsa_ad=705786370551&hsa_src=g&hsa_tgt=kwd-297316364765&hsa_kw=stripe%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAkwdVQRfa5ySWSWtNY6CMx0df1SYaOJrkNxII8btbX_6RlgpRowedRoCOv8QAvD_BwE) - Use Stripe for Payment integration.
 - [**Amazon**](https://aws.amazon.com/free/?gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7WH469-vCmd51svhd8ty1ILTharp8Gr6qp0jO8rSfYOGM5rn5yArkaAnjYEALw_wcB&trk=c4f45c53-585c-4b31-8fbf-d39fbcdc603a&sc_channel=ps&ef_id=Cj0KCQiAx9q6BhCDARIsACwUxu7WH469-vCmd51svhd8ty1ILTharp8Gr6qp0jO8rSfYOGM5rn5yArkaAnjYEALw_wcB:G:s&s_kwcid=AL!4422!3!637354294239!e!!g!!aws!19043613274!143453611386&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
-
+- [**Erasor**](http://erasor.io/) I have used this to generate the ERD for my website   
 
 ## Deployment
 To ensure users are able to view live version of "Smart Tech" project.
