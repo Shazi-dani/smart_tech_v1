@@ -424,7 +424,13 @@ The following pop-up displays when a user add any product to his bag that is a s
 ## Filter/ Search by Sorting 
 <img width="1233" alt="Screenshot 2024-12-09 at 4 57 02 PM" src="https://github.com/user-attachments/assets/d89a8a5d-c81b-4ce0-9569-0b71734d8576">
 
-
+## Product updating issue 
+#### issue 
+There is an option to update the product by admin but its not working properly.
+#### Reason for issue 
+Template blocks of this page was misplaced.
+#### Issue Resolved 
+![WhatsApp Image 2024-12-10 at 2 52 51 PM](https://github.com/user-attachments/assets/c53bb8c9-ec9b-489e-9942-70de5060823f)
 
 ## 404, 505 Pages 
 
