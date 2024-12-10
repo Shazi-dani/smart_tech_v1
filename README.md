@@ -423,6 +423,17 @@ The following pop-up displays when a user add any product to his bag that is a s
 
 ## Filter/ Search by Sorting 
 <img width="1233" alt="Screenshot 2024-12-09 at 4 57 02 PM" src="https://github.com/user-attachments/assets/d89a8a5d-c81b-4ce0-9569-0b71734d8576">
+ ----------------------------------------------------------------------------
+
+## Bugs Found in the project & their Solution
+
+Logos images for social media pages are not aligned I have converted them into webp 
+![images to web p](https://github.com/user-attachments/assets/5f6c7f39-7df4-43e1-800a-07d559c23890)
+
+
+Removed Lazy Loading to resolve following issue 
+![Bug 2](https://github.com/user-attachments/assets/f19854f4-3ea6-4560-8e5d-9ef23c627cb0)
+
 
 ## Product updating issue 
 #### issue 
@@ -435,7 +446,7 @@ Template blocks of this page was misplaced and i rearranged them.
 
 ![WhatsApp Image 2024-12-10 at 2 52 51 PM](https://github.com/user-attachments/assets/c53bb8c9-ec9b-489e-9942-70de5060823f)
 
-## 404, 505 Pages 
+## 404, 500 Error Pages 
 
 ## 404
 This Page is not Designed Properly .
@@ -445,13 +456,8 @@ Than I use Bootstrap & Css  to design this page as per my Mentor instructions
 
 ![404 Error Page](https://github.com/user-attachments/assets/5cbd730b-1d46-4528-8eb0-c5111a9e1acb)
 
-## 505 
-<img width="1200" alt="Screenshot 2024-12-09 at 9 21 20 AM" src="https://github.com/user-attachments/assets/3eb9f078-eb08-48ae-8c1e-e7bf0fc9945a">
-
-
-## About Us
-
-<img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
+## 500 
+![500 error page](https://github.com/user-attachments/assets/cf3c5dd7-6943-4244-a935-9b08cfb9c486)
 
 
 ## User Name Issue 
@@ -464,8 +470,7 @@ This is because template tags are  misplaced in the home/index.html . I have res
 <img width="1243" alt="Screenshot 2024-12-10 at 3 55 13 PM" src="https://github.com/user-attachments/assets/c975af5f-c97e-41a6-b77b-17a9d53e455d">
 
 
-## 
- ----------------------------------------------------------------------------
+ 
 
 
 ## Technologies Used
