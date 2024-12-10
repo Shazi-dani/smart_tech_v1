@@ -212,6 +212,14 @@ When ever we open a Smart Tech Link on small screens or on a mobile device follo
 ## Payment details 
 <img width="567" alt="Screenshot 2024-12-09 at 3 40 29 PM" src="https://github.com/user-attachments/assets/1743bc4b-5f3d-423f-9207-7a560605be50">
 
+## Dumy Card details
+
+- Card no. should be : 4242 4242 4242 4242
+- Date : 04/25
+- CVC: 355
+- Zip: 23422
+
+  ![Dumy Card details ](https://github.com/user-attachments/assets/a6809158-8bc0-46b0-ad82-8c6723aad398)
 
 ## Filter/ Search by Sorting 
 I have add Filters so that a user can easily search his concern product by selecting or sorting the deatils. 
