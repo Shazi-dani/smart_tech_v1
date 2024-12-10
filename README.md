@@ -430,6 +430,9 @@ There is an option to update the product by admin but its not working properly.
 #### Reason for issue 
 Template blocks of this page was misplaced.
 #### Issue Resolved 
+
+Template blocks of this page was misplaced and i rearranged them.
+
 ![WhatsApp Image 2024-12-10 at 2 52 51 PM](https://github.com/user-attachments/assets/c53bb8c9-ec9b-489e-9942-70de5060823f)
 
 ## 404, 505 Pages 
@@ -451,7 +454,17 @@ Than I use Bootstrap & Css  to design this page as per my Mentor instructions
 <img width="1280" alt="Screenshot 2024-12-09 at 9 02 52 AM" src="https://github.com/user-attachments/assets/56d0ef3b-6584-43b3-82ae-f5dcc52ec7d9">
 
 
+## User Name Issue 
+I have faced an issue that user name on the Navigation Bar didn't show . 
 
+![User Name issue](https://github.com/user-attachments/assets/112c8aea-c7a3-45b4-b09d-ad6de7f61fdc)
+
+This is because template tags are  misplaced in the home/index.html . I have resolved the issue by Rearrange these mispalced files.
+
+<img width="1243" alt="Screenshot 2024-12-10 at 3 55 13 PM" src="https://github.com/user-attachments/assets/c975af5f-c97e-41a6-b77b-17a9d53e455d">
+
+
+## 
  ----------------------------------------------------------------------------
 
 
