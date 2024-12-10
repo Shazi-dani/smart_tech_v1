@@ -278,6 +278,12 @@ Includes a copyright notice to reinforce credibility and legal protection.Mainta
 ## Contact Form
 <img width="386" alt="Screenshot 2024-12-09 at 5 37 28 PM" src="https://github.com/user-attachments/assets/01950586-cd7f-4aea-85c2-3baee9c2ddbe">
 
+I have designed this page properly by using Bootstrap & Css on the Mentor suggestion
+
+<img width="490" alt="Screenshot 2024-12-10 at 4 30 15 PM" src="https://github.com/user-attachments/assets/0289b505-a996-44fd-8c94-480bba8837f0">
+
+
+
 ## User Profile
 <img width="1223" alt="Screenshot 2024-12-09 at 7 24 57 PM" src="https://github.com/user-attachments/assets/c994fc36-97ce-4dea-828d-37c953d69dd1">
 
