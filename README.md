@@ -442,6 +442,10 @@ The following pop-up displays when a user add any product to his bag that is a s
 3- Alignment is not proper. Given height and width in html tags to ressove the Bug
 ![WhatsApp Image 2024-12-10 at 4 04 38 PM](https://github.com/user-attachments/assets/f1ad4de7-d697-4661-b062-61c4ff930370)
 
+4- Decrease it's size to resolve the issue 
+
+![Bug 4 ](https://github.com/user-attachments/assets/58717e81-075c-4f41-83ad-ce0942bc0ebb)
+
 
 
 
