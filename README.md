@@ -427,12 +427,18 @@ The following pop-up displays when a user add any product to his bag that is a s
 
 ## Bugs Found in the project & their Solution
 
-Logos images for social media pages are not aligned I have converted them into webp 
+1- Logos images for social media pages are not aligned I have converted them into webp 
 ![images to web p](https://github.com/user-attachments/assets/5f6c7f39-7df4-43e1-800a-07d559c23890)
 
-
-Removed Lazy Loading to resolve following issue 
+2- Largest contentfull paint image wa lazily loaded . I removed Removed Lazy Loading error  to resolve following issue 
 ![Bug 2](https://github.com/user-attachments/assets/f19854f4-3ea6-4560-8e5d-9ef23c627cb0)
+
+3- Alignment is not proper. Given height and width in html tags to ressove the Bug
+![WhatsApp Image 2024-12-10 at 4 04 38 PM](https://github.com/user-attachments/assets/f1ad4de7-d697-4661-b062-61c4ff930370)
+
+
+
+
 
 
 ## Product updating issue 
