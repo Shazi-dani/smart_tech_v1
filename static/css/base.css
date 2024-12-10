@@ -346,6 +346,40 @@ ul {
   margin: auto;
 }
 
+.edit-cancel-btn{
+  padding: 6px 30px;
+  border: 1px solid #1b365c;
+  color: #1b365c;
+}
+
+.edit-cancel-btn:hover{
+  border: 1px solid #fff;
+  color: #fff;
+  background-color: #1b365c;
+}
+
+.edit-update-btn{
+  background-color: #1b365c;
+  color: #fff;
+}
+
+.edit-update-btn:hover{
+  background-color: #fff;
+  color: #1b365c;
+  border: 1px solid #1b365c;
+}
+
+.update-profile-btn{
+  background-color: #1b365c;
+  color: #fff;
+}
+
+.update-profile-btn:hover{
+  background-color: #fff;
+  border: 1px solid #1b365c;
+  color: #1b365c;
+}
+
 @media screen and (min-width: 768px) {
   .signup-form {
     width: 520px;
