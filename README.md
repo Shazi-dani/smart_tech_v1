@@ -434,8 +434,13 @@ Template blocks of this page was misplaced.
 
 ## 404, 505 Pages 
 
-## 404 
+## 404
+This Page is not Designed Properly .
 <img width="547" alt="Screenshot 2024-12-09 at 5 34 23 PM" src="https://github.com/user-attachments/assets/23cc6ef5-ee68-48fe-be01-e4012d614c3f">
+
+Than I use Bootstrap & Css  to design this page as per my Mentor instructions
+
+![404 Error Page](https://github.com/user-attachments/assets/5cbd730b-1d46-4528-8eb0-c5111a9e1acb)
 
 ## 505 
 <img width="1200" alt="Screenshot 2024-12-09 at 9 21 20 AM" src="https://github.com/user-attachments/assets/3eb9f078-eb08-48ae-8c1e-e7bf0fc9945a">
