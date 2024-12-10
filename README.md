@@ -335,6 +335,7 @@ Login Page for Admin Side
 ## Amdin Side Product CRUD
 
 ## Product Management by Admin from Front-End
+<img width="443" alt="Screenshot 2024-12-10 at 4 56 34 PM" src="https://github.com/user-attachments/assets/b40e3d2f-afe5-4efa-8b3c-c7a227540ab0">
 
 <img width="1223" alt="Screenshot 2024-12-09 at 6 44 56 PM" src="https://github.com/user-attachments/assets/b80709d1-0fc9-4cbd-924e-0260fef80040">
 <img width="1223" alt="Screenshot 2024-12-09 at 6 45 07 PM" src="https://github.com/user-attachments/assets/be9124f5-0c38-47f2-a0b0-ff8fc5178a8a">
