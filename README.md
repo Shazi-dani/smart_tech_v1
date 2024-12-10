@@ -282,6 +282,13 @@ I have designed this page properly by using Bootstrap & Css on the Mentor sugges
 
 <img width="490" alt="Screenshot 2024-12-10 at 4 30 15 PM" src="https://github.com/user-attachments/assets/0289b505-a996-44fd-8c94-480bba8837f0">
 
+## e-commerce Business Model Of my Project 
+Facebook page for Smart Tech [Smart Tech Shop](https://web.facebook.com/people/Smart-Tech-Ballymahon/100063877641939/?mibextid=LQQJ4d&rdid=20MGgQyxtMcguXT2&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2FQxc41dRkknBkFeoX%2F%3Fmibextid%3DLQQJ4d%26_rdc%3D1%26_rdr)
+
+
+.
+
+<img width="490" alt="Screenshot 2024-12-10 at 4 46 21 PM" src="https://github.com/user-attachments/assets/5016bede-29ad-43bb-92a9-5b040327f6e1">
 
 
 ## User Profile
