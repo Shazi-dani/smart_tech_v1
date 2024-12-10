@@ -9,7 +9,7 @@
 </div>
 {% endblock %} {% block content %}
 <div class="overlay"></div>
-<div class="container mb-5">
+<div class="container mb-5 bag-page-main-container">
   <div class="row mt-5">
     <div class="col mt-5">
       <hr />
@@ -36,12 +36,12 @@
           </thead>
           <tbody>
             {% for item in bag_items %}
-            <tr class="bag-table-body-row">
+            <tr class="bag-table-body-row ">
               <td class="p-3 w-25">
                 {% if item.product.image %}
-                <img class="w-100 product-page-img-section bag-page-img-section" width="100px" height="130px" src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
+                <img class=" product-page-img-section bag-page-img-section" width="100px" height="130px" src="{{ item.product.image.url }}" alt="{{ item.product.name }}">
                 {% else %}
-                <img class="w-100 product-page-img-section bag-page-img-section" width="100px" height="130px" src="{{ MEDIA_URL }}noimage.png" alt="{{ item.product.name }}">
+                <img class=" product-page-img-section bag-page-img-section" width="100px" height="130px" src="{{ MEDIA_URL }}noimage.png" alt="{{ item.product.name }}">
                 {% endif %}
               </td>
               <td class="py-3 w-25">
@@ -67,7 +67,7 @@
                           <div class="input-group-prepend">
                             <button
                               id="handle-qty-btn-dec"
-                              class="decrement-qty btn btn-sm btn-black checkout-btn rounded-0"
+                              class="decrement-qty btn btn-sm btn-black  d-none d-sm-block checkout-btn rounded-0"
                               data-item_id="{{ item.item_id }}"
                               id="decrement-qty_{{ item.item_id }}"
                             >
@@ -91,7 +91,7 @@
                           <div class="input-group-append">
                             <button
                               id="handle-qty-btn-inc"
-                              class="increment-qty btn btn-sm btn-black checkout-btn rounded-0"
+                              class="increment-qty btn btn-sm btn-black d-none d-sm-block checkout-btn rounded-0"
                               data-item_id="{{ item.item_id }}"
                               id="increment-qty_{{ item.item_id }}"
                             >
@@ -127,7 +127,7 @@
             </tr>
             {% endfor %}
             <tr>
-              <td colspan="5" class="pt-5 text-right">
+              <td colspan="5" class="pt-5 text-left text-sm-right">
                 <h6><strong>Bag Total:</strong> €{{ total|floatformat:2 }}</h6>
                 <h6><strong>Delivery:</strong> €{{ delivery|floatformat:2 }}</h6>
                 <h4 class="mb-4"><strong>Grand Total:</strong> €{{ grand_total|floatformat:2 }}</h4>
@@ -139,14 +139,14 @@
               </td>
             </tr>
             <tr>
-              <td colspan="5" class="text-right">
+              <td colspan="5" class="text-left text-sm-right bag-btn-container">
                 <a href="{% url 'products' %}" class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn">
                   <span class="icon keep-shopping-icon">
                     <i class="fas fa-chevron-left"></i>
                   </span>
                   <span class="text-uppercase keep-shopping-text">Keep Shopping</span>
                 </a>
-                <a href="{% url 'checkout' %}" class="btn btn-black rounded-0 btn-lg checkout-btn">
+                <a href="{% url 'checkout' %}" class="btn btn-black rounded-0 btn-lg mt-2 checkout-btn">
                   <span class="text-uppercase checkout-text">Secure Checkout</span>
                   <span class="icon checkout-icon">
                     <i class="fas fa-lock"></i>

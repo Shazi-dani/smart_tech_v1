@@ -380,6 +380,11 @@ ul {
   color: #1b365c;
 }
 
+.link-color{
+  color: #1b365c !important;
+}
+
+
 @media screen and (min-width: 768px) {
   .signup-form {
     width: 520px;
@@ -424,6 +429,19 @@ ul {
   #product_card {
     width: 300px;
     height: 600px;
+  }
+}
+
+@media screen and (max-width:460px) {
+  /* .grand-total-value{
+    margin-left: -70px !important;
+    text-align: center !important;
+  } */
+  .bag-btn-container{
+    width: 10% !important;
+  }
+  .bag-page-img-section{
+    
   }
 }
 
