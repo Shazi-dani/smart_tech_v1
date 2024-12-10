@@ -1,4 +1,9 @@
-{% extends "base.html" %} {% load static %} {% block extra_css %}
+{% extends "base.html" %} {% load static %} 
+{% block meta_description %}
+  <meta name="description" content="View and update your profile details, including delivery information and order history. Manage your account and keep track of past orders easily." />
+{% endblock %}
+
+{% block extra_css %}
 <link rel="stylesheet" href="{% static 'profiles/css/profile.css' %}" />
 {% endblock %} {% block page_header %}
 <div class="container header-container">

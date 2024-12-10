@@ -432,19 +432,6 @@ ul {
   }
 }
 
-@media screen and (max-width:460px) {
-  /* .grand-total-value{
-    margin-left: -70px !important;
-    text-align: center !important;
-  } */
-  .bag-btn-container{
-    width: 10% !important;
-  }
-  .bag-page-img-section{
-    
-  }
-}
-
 @media screen and (min-width: 400px) {
   /* Allauth Templates */
 

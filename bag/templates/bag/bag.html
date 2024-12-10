@@ -1,5 +1,8 @@
 {% extends "base.html" %} 
 {% load static %} 
+{% block meta_description %}
+  <meta name="description" content="Shop smarter with our interactive shopping bag page. View product details, adjust quantities, calculate totals, and proceed to secure checkout. Enjoy a seamless and user-friendly shopping experience." />
+{% endblock %}
 {% load bag_tools %} 
 {% block page_header %}
 <div class="container header-container">
@@ -146,7 +149,7 @@
                   </span>
                   <span class="text-uppercase keep-shopping-text">Keep Shopping</span>
                 </a>
-                <a href="{% url 'checkout' %}" class="btn btn-black rounded-0 btn-lg mt-2 checkout-btn">
+                <a href="{% url 'checkout' %}" class="btn btn-black rounded-0 btn-lg mt-2 mt-sm-0 checkout-btn">
                   <span class="text-uppercase checkout-text">Secure Checkout</span>
                   <span class="icon checkout-icon">
                     <i class="fas fa-lock"></i>

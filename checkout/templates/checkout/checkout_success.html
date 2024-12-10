@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 {% load static %}
+{% block meta_description %}
+  <meta name="description" content="Thank you for your order! Review your order details, including product information, shipping, and billing information. A confirmation email will be sent to your provided email. Enjoy your shopping experience with us." />
+{% endblock %}
+
 
 {% block extra_css %}
   <link rel="stylesheet" href="{% static 'checkout/css/checkout.css' %}" />

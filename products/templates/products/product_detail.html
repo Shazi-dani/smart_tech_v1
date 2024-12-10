@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% load static %}
+{% block meta_description %}
+  <meta name="description" content="Discover detailed information about the latest product at SmartTech. View product images, specifications, and pricing, and easily add to your shopping bag." />
+{% endblock %}
 
 {% block page_header %}
     <div class="container header-container">
@@ -98,7 +101,7 @@
                                         </span>
                                         <span class="text-uppercase keep-shopping-text">Keep Shopping</span>
                                       </a>
-                                    <input type="submit" id="add-to-bag" class="btn btn-black rounded-0 text-uppercase mt-2" value="Add to Bag">
+                                    <input type="submit" id="add-to-bag" class="btn btn-black rounded-0 text-uppercase mt-2 mt-sm-0" value="Add to Bag">
                                 </div>
                             {% endwith %}
                         </div>

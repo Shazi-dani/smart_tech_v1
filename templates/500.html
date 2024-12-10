@@ -18,18 +18,27 @@
         align-items: center;
       "
     >
-      <h1>503 - Service Unavailable</h1>
+      <h1>500 - Service Unavailable</h1>
       <p>
         Sorry, the service is temporarily unavailable. Please try again later.
       </p>
       <a
         href="{% url 'home' %}"
         class="btn btn-outline-black rounded-0 btn-lg keep-shopping-btn px-4"
+        style="
+          width: 120px;
+          height: 40px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          text-decoration: none;
+          background-color: rgb(1, 1, 36);
+        "
       >
         <span class="icon keep-shopping-icon">
           <i class="fas fa-chevron-left"></i>
         </span>
-        <span class="text-uppercase keep-shopping-text">Return to Home</span>
+        <span class="text-uppercase keep-shopping-text" style="color: #fff;">Return to Home</span>
       </a>
     </div>
   </body>
