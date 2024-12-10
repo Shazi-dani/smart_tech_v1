@@ -431,25 +431,6 @@ The following pop-up displays when a user add any product to his bag that is a s
 <img width="1233" alt="Screenshot 2024-12-09 at 4 57 02 PM" src="https://github.com/user-attachments/assets/d89a8a5d-c81b-4ce0-9569-0b71734d8576">
  ----------------------------------------------------------------------------
 
-## Bugs Found in the project & their Solution
-
-1- Logos images for social media pages are not aligned I have converted them into webp 
-![images to web p](https://github.com/user-attachments/assets/5f6c7f39-7df4-43e1-800a-07d559c23890)
-
-2- Largest contentfull paint image wa lazily loaded . I removed Removed Lazy Loading error  to resolve following issue 
-![Bug 2](https://github.com/user-attachments/assets/f19854f4-3ea6-4560-8e5d-9ef23c627cb0)
-
-3- Alignment is not proper. Given height and width in html tags to ressove the Bug
-![WhatsApp Image 2024-12-10 at 4 04 38 PM](https://github.com/user-attachments/assets/f1ad4de7-d697-4661-b062-61c4ff930370)
-
-4- Decrease it's size to resolve the issue 
-
-![Bug 4 ](https://github.com/user-attachments/assets/58717e81-075c-4f41-83ad-ce0942bc0ebb)
-
-
-
-
-
 
 ## Product updating issue 
 #### issue 
@@ -486,7 +467,23 @@ This is because template tags are  misplaced in the home/index.html . I have res
 <img width="1243" alt="Screenshot 2024-12-10 at 3 55 13 PM" src="https://github.com/user-attachments/assets/c975af5f-c97e-41a6-b77b-17a9d53e455d">
 
 
+## Bugs Found in the project & their Solution
+
+1- Logos images for social media pages are not aligned I have converted them into webp 
+![images to web p](https://github.com/user-attachments/assets/5f6c7f39-7df4-43e1-800a-07d559c23890)
+
+2- Largest contentfull paint image wa lazily loaded . I removed Removed Lazy Loading error  to resolve following issue 
+![Bug 2](https://github.com/user-attachments/assets/f19854f4-3ea6-4560-8e5d-9ef23c627cb0)
+
+3- Alignment is not proper. Given height and width in html tags to ressove the Bug
+![WhatsApp Image 2024-12-10 at 4 04 38 PM](https://github.com/user-attachments/assets/f1ad4de7-d697-4661-b062-61c4ff930370)
+
+4- Decrease it's size to resolve the issue 
+
+![Bug 4 ](https://github.com/user-attachments/assets/58717e81-075c-4f41-83ad-ce0942bc0ebb)
  
+5- To resolve this issue setted its height and width explicitly
+![Bug 5](https://github.com/user-attachments/assets/7afb4833-f336-41f7-9b80-7587a33f6fd9)
 
 
 ## Technologies Used
