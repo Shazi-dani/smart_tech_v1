@@ -311,6 +311,8 @@ Login Page for Admin Side
 ## Orders Detail
 <img width="1264" alt="Screenshot 2024-12-01 at 11 09 35 AM" src="https://github.com/user-attachments/assets/fb61ba73-f098-4dfd-a820-3aac7e7059a4">
 
+## Amdin Side Product CRUD
+
 ## Product Management by Admin from Front-End
 
 <img width="1223" alt="Screenshot 2024-12-09 at 6 44 56 PM" src="https://github.com/user-attachments/assets/b80709d1-0fc9-4cbd-924e-0260fef80040">
@@ -319,6 +321,18 @@ Login Page for Admin Side
 ## Add Product as Admin
 <img width="1243" alt="Screenshot 2024-12-10 at 3 11 49 PM" src="https://github.com/user-attachments/assets/eaf6a27e-1b00-4803-a23e-a23c499ad7d1">
 
+## Edit / Update Product Detail as an admin 
+
+![Product Editing](https://github.com/user-attachments/assets/85eb4ece-4d4a-4eb6-89b8-939070a08c6f)
+
+
+## Add Order details
+![add Phone no to delivery page](https://github.com/user-attachments/assets/e2bedbf2-5da6-4655-845f-5a5d4a8782d1)
+
+
+## Delete product as Admin 
+
+<img width="176" alt="Screenshot 2024-12-09 at 3 14 53 PM" src="https://github.com/user-attachments/assets/ca0bacd5-0ea3-4543-a6f5-6d6cc4c6f029">
 
 ------------------------------------------------------------------------------------------------------------------------
 
